@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{% assign art_category_pages = site.pages | where:"matter_type","art_category" %}
+{% for category_page in art_category_pages %}
+{% assign category = category_page.title %}
+<hr>
+<h3>{{ category }}</h3>
+
+{% capture cycle_id_add_row %}"addrow"{{forloop.index}}{% endcapture %}
+{% capture cycle_id_end_row %}"endrow"{{forloop.index}}{% endcapture %}
+
+{% for preview_img in category_page.previews %}
+    {% cycle cycle_id_add_row : '<div class="row row-center">', '', '' %}
+        <div class="column column-33">
+            <div class="preview-panel">
+                <a href="{{ category_page.url | prepend: site.baseurl }}">
+                    <img src="{{ preview_img }}">
+                </a>
+           </div>
+        </div>
+{% cycle cycle_id_end_row : '', '', '</div>' %}
+{% endfor %} 
+{% cycle cycle_id_end_row : '', '</div>', '</div>' %}
+<br>
+{{ category_page.preview_text }}
+<br>
+<a href="{{category_page.url}}"><u>View more works in {{category}}</u></a>
+
+{% endfor %}

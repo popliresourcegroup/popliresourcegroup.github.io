@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+  {% assign category = page.title %}
+  {% capture cycle_id_add_row %}"addrow"{{category}}{{forloop.index}}{% endcapture %}
+  {% capture cycle_id_end_row %}"endrow"{{category}}{{forloop.index}}{% endcapture %}
+  
+  {% for page in site.pages %}
+  {% assign real_post_dir = page.path %}
+  {% capture cat_dir %}art_posts/{{category}}{% endcapture %}
+  {% if real_post_dir contains cat_dir %}
+  {% cycle cycle_id_add_row : '<div class="row row-center">', '', '' %}
+    <div class="column column-33">
+        <div class="preview-panel">
+            <a href="{{ page.url | prepend: site.baseurl }}">
+                <img src="{{ page.preview }}">
+            </a>
+            <div class="post-title" align="center">{{ page.title }}</div>
+       </div>
+    </div>
+{% cycle cycle_id_end_row : '', '', '</div>' %}
+{% endif %}
+{% endfor %}
+{% cycle cycle_id_end_row : '', '</div>', '</div>' %}
+<br><br>
+Want to know more about {{page.title}}? Please use the form below to send me a message.
+<br><br>
+{% include contact.html url=page.url %}
+
+</div>

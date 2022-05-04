@@ -1,0 +1,55 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: ''
+webhook_url: 
+sections:
+- type: heading
+  label: Art
+- type: directory
+  path: art_posts
+  label: Art Posts
+  create: all
+  match: "**/*"
+  templates:
+  - art-post
+- type: directory
+  path: art_categories
+  label: Art Series Pages
+  create: documents
+  match: "**/*"
+  templates:
+  - art-category-page
+- type: heading
+  label: Blog
+- type: jekyll-posts
+  label: Blog Posts
+  create: documents
+  templates:
+  - blog-post
+- type: heading
+  label: Root
+- type: document
+  path: index.html
+  label: Showcase
+- type: document
+  path: exhibitions.md
+  label: Exhibitions
+- type: document
+  path: about.md
+  label: About
+upload_dir: uploads
+public_path: "/uploads"
+front_matter_path: https://media.githubusercontent.com/media/nidhi-studio/nidhi-studio.github.io/gh-pages/uploads
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_env:
+  - JEKYLL_ENV=staging
+  preview_output_directory: _site
+  install_dependencies_command: bundle install --path vendor/bundle
+  preview_docker_image: forestryio/ruby:2.6
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
+    -d _site

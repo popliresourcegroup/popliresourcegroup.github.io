@@ -1,0 +1,55 @@
+{% comment %}
+Formspree accounts are registered on the following emails:
+formspree1 at nidhi.studio
+formspree2 at nidhi.studio
+{% endcomment %}
+
+<script>
+  window.onload = function() {
+    var urls=[
+    "https://formspree.io/f/moqykbzb",
+    "https://formspree.io/f/mpzkyngg"
+    ];
+    var contactForm = document.getElementById("contact_form");
+    contactForm.action = urls[Math.floor(Math.random() * urls.length)];
+
+    var xhr = new XMLHttpRequest;
+    xhr.open('GET', "https://ifconfig.me/all", true);
+    xhr.onload = function (e) {
+        if (xhr.readyState === 4) {
+            if (xhr.status === 200) {
+                var userInfo = document.getElementById("contact_form_user_info");
+                userInfo.value = xhr.responseText;
+            } else {
+                console.error(xhr.statusText);
+            }
+        }
+    };
+    xhr.send();
+  }
+</script>
+
+<form
+  id="contact_form"
+  method="POST"
+  action="https://formspree.io/f/moqykbzb"
+>
+  <label>
+    Your name:
+    <input type="text" name="name">
+  </label>
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <input type="hidden" name="From_URL" value="{{ include.url }}">
+  <input id="contact_form_user_info" type="hidden" name="User_Info" value="UNKNOWN - PROBABLY SPAM">
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>

@@ -1,0 +1,16 @@
+---
+layout: default
+---
+ 
+<ul>
+{% assign blog_posts = site.posts %}
+{% for post in blog_posts %}
+    <li>
+    <span style="font-size:14px; color:#828282">{{post.date | date: "%a, %b %d, %Y" }}</span>
+    <br>
+    <a href="{{ post.url | prepend: site.baseurl }}"><h3>{{post.title}}</h3></a>
+    </li>
+{% else %}
+There are no blog posts to show.
+{% endfor %}
+</ul>

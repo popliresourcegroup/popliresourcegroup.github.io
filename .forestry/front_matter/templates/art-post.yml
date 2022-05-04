@@ -1,0 +1,42 @@
+---
+label: Art Post
+hide_body: false
+display_field: title
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: artwork
+  config:
+    required: true
+- type: text
+  name: title
+  label: title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: date
+  default: now
+  config:
+    required: true
+- name: preview
+  type: file
+  config:
+    maxSize: 64
+  label: preview (thumbnail)
+- name: matter_type
+  type: text
+  config:
+    required: true
+  label: matter_type
+  hidden: true
+  default: art_post
+pages:
+- art_posts/Mixed Medium/Arka.md
+- art_posts/Mixed Medium/Gajanan.md
+- art_posts/Mixed Medium/Moreshwar.md
+- art_posts/Mixed Medium/Nila.md
+- art_posts/Mixed Medium/Shakti.md
+- art_posts/Mixed Medium/Tapas.md

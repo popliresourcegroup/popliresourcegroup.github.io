@@ -1,9 +1,26 @@
 ---
 layout: page
-title: about
-permalink: /about/
+title: About
+permalink: "/about/"
+
 ---
+<div align="center">
 
-Bavaria ipsum dolor sit amet hoid a bissal wos gehd ollaweil nomoi. Wolln mei Weißwiaschd sowos, koa Habedehre schaugn san. Foidweg sog i hoggd Kaiwe, wuid Marterl großherzig ned woar.
+<img src="https://nidhi.studio/uploads/nidhi-mathur-02256e615f40548c09007935fd47fc10.png">
 
-Obandln singd Hendl spernzaln i hab an singan dringma aweng Hendl oamoi gwiss Fünferl. Xaver Auffisteign vasteh kumm geh i moan oiwei nia om auf’n Gipfe hoam obandeln.
+<br>
+
+Originally from India, settled in Singapore for the last few years. Formally educated in design, painting came naturally to me.
+
+Being married to a sailor, I traveled the world imbibing diverse art influences, mainly folk art.
+
+Almost all native art has its roots in humanity’s attempt at understanding the mysticism of life and reflecting the ancient beliefs and values of its people. 
+
+For me too my paintings originate from a certain introspective thought, which subsequently unfold as an array of colours on different mediums.
+
+I try to bring out the balance of life which is beyond the community, and cultural diversity, in a vivid play of colours.
+
+</div>
+
+<hr>
+
