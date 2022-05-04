@@ -8,6 +8,8 @@ permalink: "/about/"
 
 <img src="https://nidhi.studio/uploads/nidhi-mathur-02256e615f40548c09007935fd47fc10.png">
 
+</div>
+
 <br>
 <br>
 
@@ -20,8 +22,6 @@ Almost all native art has its roots in humanity’s attempt at understanding the
 For me too my paintings originate from a certain introspective thought, which subsequently unfold as an array of colours on different mediums.
 <br>
 I try to bring out the balance of life which is beyond the community, and cultural diversity, in a vivid play of colours.
-
-</div>
 
 <hr>
 
