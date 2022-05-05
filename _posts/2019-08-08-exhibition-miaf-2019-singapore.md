@@ -9,6 +9,6 @@ Got an opportunity to present my work at Mauritius international Art Fair, Mauri
 
 [https://www.mauritiusartfair.com/](https://www.mauritiusartfair.com/ "https://www.mauritiusartfair.com/")
 
-News coverage of event: https://fb.watch/cOxOZemx_h/?mibextid=ZaZkta
+News coverage of event: [click here](https://fb.watch/cOxOZemx_h/?mibextid=ZaZkta)
 
 ![](/uploads/exhibitions_MIAF_2019_1.jpg)
