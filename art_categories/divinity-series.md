@@ -6,8 +6,10 @@ previews:
 - "/uploads/Kaveri_preview.jpg"
 - "/uploads/Devi_preview.jpg"
 - "/uploads/Rajarajeshwari_preview.jpg"
-preview_text: Stories of the divines narrated through pigments.
+preview_text: The qualities and forms of Brahman, the transcendental power beyond the universe - are represented by the multitude of deities which emenate from The Absolute.
 
 ---
 
-Stories of the divines narrated through pigments.
+The qualities and forms of Brahman, the transcendental power beyond the universe - are represented by the multitude of deities which emenate from The Absolute.
+
+Divinity being unlimited, can have unlimited forms and expressions.

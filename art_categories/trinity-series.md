@@ -6,8 +6,8 @@ previews:
 - "/uploads/Purusha_preview.jpg"
 - "/uploads/Kailasha_preview.jpg"
 - "/uploads/Vishnu_Namam_preview.jpg"
-preview_text: The inevitable trinity of creation, preservation and destruction.
+preview_text: Representative of 'The Absolute', Trinity often seems as Brahma, Vishnu and Mahesh uphold and support everything in existence.
 
 ---
 
-The inevitable trinity of creation, preservation and destruction.
+Representative of 'The Absolute', Trinity often seems as Brahma, Vishnu and Mahesh uphold and support everything in existence.
