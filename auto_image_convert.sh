@@ -19,3 +19,12 @@ for folder in "$extpath"/* ; do
 done
 
 #cp -f **/autogen/* ../../nidhi-studio.github.io/uploads
+
+# i=0
+# for file in `find /Users/anirudhka/foobar/nidhi_studio/raw_data/exhibitions -type file` ; do
+#     filename=`basename "$file"`
+#     foldername=`dirname "$file"`
+#     i=$(( i+1 ))
+#     docker run -v "$foldername":/imgs dpokidov/imagemagick "/imgs/$filename" -resize 1200x1200\> -strip -interlace Plane -gaussian-blur 0.05 -quality 85% /imgs/exhibitions_`basename "$foldername"`_$i.jpg
+# done
+# find . -name "*exhibitions*" | xargs -I{} -n1 mv {} /Users/anirudhka/foobar/nidhi_studio/nidhi-studio.github.io/uploads 

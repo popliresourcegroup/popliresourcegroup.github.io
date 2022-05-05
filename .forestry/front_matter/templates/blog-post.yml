@@ -32,5 +32,3 @@ fields:
   label: layout
   hidden: true
   default: post
-pages:
-- _posts/exhibition-tatinis-2019-singapore.md
