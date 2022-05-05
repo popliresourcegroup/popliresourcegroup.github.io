@@ -9,4 +9,14 @@ Got an opportunity to present my work at Gorgeous Transformation Art Exhibition 
 
 [https://www.ionorchard.com/event/gorgeous-transformation-art-exhibition-2022](https://www.ionorchard.com/event/gorgeous-transformation-art-exhibition-2022 "https://www.ionorchard.com/event/gorgeous-transformation-art-exhibition-2022")
 
+![](/uploads/exhibitions_Women_Artists_Association_2022_10.jpg)
 
+![](/uploads/exhibitions_Women_Artists_Association_2022_11.jpg)
+
+![](/uploads/exhibitions_Women_Artists_Association_2022_12.jpg)
+
+![](/uploads/exhibitions_Women_Artists_Association_2022_13.jpg)
+
+![](/uploads/exhibitions_Women_Artists_Association_2022_14.jpg)
+
+![](/uploads/exhibitions_Women_Artists_Association_2022_9.jpg)

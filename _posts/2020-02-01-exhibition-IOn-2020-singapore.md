@@ -9,4 +9,11 @@ Got an opportunity to present my work at IOn Orchard, Singapore
 
 [https://www.ionorchard.com/event/if-walls-could-speak](https://www.ionorchard.com/event/if-walls-could-speak "https://www.ionorchard.com/event/if-walls-could-speak")
 
+![](/uploads/exhibitions_IOn_Art_2020_15.jpg)
+
+![](/uploads/exhibitions_IOn_Art_2020_16.jpg)
+
+![](/uploads/exhibitions_IOn_Art_2020_17.jpg)
+
+![](/uploads/exhibitions_IOn_Art_2020_18.jpg)
 
