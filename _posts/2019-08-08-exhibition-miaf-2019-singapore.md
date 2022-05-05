@@ -11,3 +11,4 @@ Got an opportunity to present my work at Mauritius international Art Fair, Mauri
 
 Event Video: https://fb.watch/cOxOZemx_h/?mibextid=ZaZkta
 
+![](/uploads/exhibitions_MIAF_2019_1.jpg)
