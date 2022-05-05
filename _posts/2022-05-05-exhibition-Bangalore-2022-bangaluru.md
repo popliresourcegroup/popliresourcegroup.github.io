@@ -9,10 +9,10 @@ Got an opportunity to present my work at India Art Festival 2022, India
 
 [https://gnaniarts.com/](https://gnaniarts.com/ "https://gnaniarts.com/")
 
-![](/uploads/exhibitions_Bangalore_2022_19.jpg
+![](/uploads/exhibitions_Bangalore_2022_19.jpg)
 
-![](/uploads/exhibitions_Bangalore_2022_20.jpg
+![](/uploads/exhibitions_Bangalore_2022_20.jpg)
 
-![](/uploads/exhibitions_Bangalore_2022_21.jpg
+![](/uploads/exhibitions_Bangalore_2022_21.jpg)
 
-![](/uploads/exhibitions_Bangalore_2022_22.jpg
+![](/uploads/exhibitions_Bangalore_2022_22.jpg)
