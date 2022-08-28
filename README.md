@@ -9,7 +9,7 @@ The source of the site is stored as templates, html files and markdown files
 These are fed into Jekyll to generate static site pages that are ready to be hosted
 https://jekyllrb.com/docs/
 
-I'm using Github Actions to automatically publish any comments to the main branch on GH-Pages - https nidhi(dot)studio
+I'm using Github Actions to automatically publish any commits to the main branch on GH-Pages - https nidhi(dot)studio
 
 ### Images
 
@@ -23,9 +23,9 @@ The thumbnail images should be used in listings, and the watermarked high-res im
 
 Editing the html, templates etc. requires you to directly interact with the files here on git, and fix them.
 
-Editing the content of individual pages, uploading images, adding new paintings or exhebition mentions, editing, deleting etc. can be done via the third party tool `Forestry.io`, and indeed the process has been written with consideration to let non-technical people easily edit the content via forestry.io
+Editing the content of individual pages, uploading images, adding new paintings or exhebition mentions, editing, deleting etc. can be done via the third party tool `Forestry.io`, and indeed the process has been written with consideration to let non-technical people easily edit the markdown content via forestry.io
 
-On forestry.io I have set up an account, with templates and rules set up to make the process slightly idiot proof (but not enough). One can log in there and edit stuff.
+On forestry.io I have set up an account, with templates and rules set up to make the process slightly idiot proof (but not enough). One can log in there and edit stuff. Once one saves, changes are comitted, and GH-Actions publishes the new site version.
 
 
 
