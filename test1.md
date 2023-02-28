@@ -6,6 +6,6 @@ thumbnail: "/uploads/chiyo_chichi.png"
 detailpictures:
 - "/uploads/tanvi_practice.png"
 - "/uploads/chiyo_chichi.png"
-sold: false
+sold: true
 
 ---
