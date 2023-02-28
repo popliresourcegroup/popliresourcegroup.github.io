@@ -1,13 +1,10 @@
 # Site settings
-title: Art by Nidhi
-email: nidhismathur@gmail.com
+title: Popli Resource Group
+email: info@popliresources.com
 description: > # this means to ignore newlines until "baseurl:"
-  Artwork by Singapore based Nidhi Mathur (art_n_canvas).
+  Consturction machines sold by Popli Resources.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nidhi.studio" # the base hostname & protocol for your site
-#twitter_username: jekyllrb
-#github_username:  jekyll
-instagram_username: art_n_canvas
+url: "https://popliresources.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
