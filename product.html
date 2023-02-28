@@ -154,6 +154,12 @@ permalink: /product.html
                         <div class="col-md-12  col-sm-12  col-xs-12 newMetenders" id="projects-search-result">
                            <div id="products" class="list-group project-grid-sec main-tender">
                               <div class="p-tabs-content">
+
+
+
+
+
+
                                  <div class="p-tab active-tab" id="p-tab-2">
                                     <div class="row">
                                         {% for product in site.pages %}
@@ -197,9 +203,10 @@ permalink: /product.html
                                         {% endfor %}
                                     </div>
                                  </div>
-                                 <div class="p-tab" id="p-tab-3">
-                                    <div class="row">
 
+
+                                 <div class="p-tab active-tab" id="p-tab-3">
+                                    <div class="row">
                                         {% for product in site.pages %}
                                         {% assign cat = product.category %}
                                         {% capture thiscat %}Mobile{% endcapture %}
@@ -210,8 +217,20 @@ permalink: /product.html
                                                <div class="col-sm">
                                                   <div class="inner-box">
                                                      <div class="image">
-                                                        <a href="{{ product.url }}"><img src="{{ product.thumbnail }}"
-                                                           alt="" /></a>
+                                                        <a href="{{ product.url }}">
+
+                                                         {% if product.sold %}
+                                                         <div style="position:relative">
+                                                            <img src="{{ product.thumbnail }}" style="position: absolute; top: 0; left: 0;" />
+                                                            <img src="uploads/sold.png" />
+                                                          </div>
+                                                          {% else %}
+                                                          <div>
+                                                            <img src="{{ product.thumbnail }}" class="thumbnail" />
+                                                          </div>
+                                                          {% endif %}
+                                                         
+                                                         </a>
                                                      </div>
                                                      <div class="lower-content">
                                                         <h3><a href="{{ product.url }}">{{ product.productname }}</a></h3>
@@ -227,10 +246,194 @@ permalink: /product.html
 
                                         {% endif %}
                                         {% endfor %}
-
-
                                     </div>
                                  </div>
+
+
+
+                                 <div class="p-tab active-tab" id="p-tab-4">
+                                    <div class="row">
+                                        {% for product in site.pages %}
+                                        {% assign cat = product.category %}
+                                        {% capture thiscat %}Piling{% endcapture %}
+                                        {% if cat contains thiscat %}
+
+                                        <div class="col-md-3">
+                                            <div class="productcard">
+                                               <div class="col-sm">
+                                                  <div class="inner-box">
+                                                     <div class="image">
+                                                        <a href="{{ product.url }}">
+
+                                                         {% if product.sold %}
+                                                         <div style="position:relative">
+                                                            <img src="{{ product.thumbnail }}" style="position: absolute; top: 0; left: 0;" />
+                                                            <img src="uploads/sold.png" />
+                                                          </div>
+                                                          {% else %}
+                                                          <div>
+                                                            <img src="{{ product.thumbnail }}" class="thumbnail" />
+                                                          </div>
+                                                          {% endif %}
+                                                         
+                                                         </a>
+                                                     </div>
+                                                     <div class="lower-content">
+                                                        <h3><a href="{{ product.url }}">{{ product.productname }}</a></h3>
+                                                        <p class="MsoNormal" style="margin: 0in; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: rgb(0, 0, 0); text-size-adjust: auto;">
+                                                            {{ product.productdescription }}
+                                                           <o:p></o:p>
+                                                        </p>
+                                                     </div>
+                                                  </div>
+                                               </div>
+                                            </div>
+                                         </div>
+
+                                        {% endif %}
+                                        {% endfor %}
+                                    </div>
+                                 </div>
+
+
+
+                                 <div class="p-tab active-tab" id="p-tab-5">
+                                    <div class="row">
+                                        {% for product in site.pages %}
+                                        {% assign cat = product.category %}
+                                        {% capture thiscat %}Excava{% endcapture %}
+                                        {% if cat contains thiscat %}
+
+                                        <div class="col-md-3">
+                                            <div class="productcard">
+                                               <div class="col-sm">
+                                                  <div class="inner-box">
+                                                     <div class="image">
+                                                        <a href="{{ product.url }}">
+
+                                                         {% if product.sold %}
+                                                         <div style="position:relative">
+                                                            <img src="{{ product.thumbnail }}" style="position: absolute; top: 0; left: 0;" />
+                                                            <img src="uploads/sold.png" />
+                                                          </div>
+                                                          {% else %}
+                                                          <div>
+                                                            <img src="{{ product.thumbnail }}" class="thumbnail" />
+                                                          </div>
+                                                          {% endif %}
+                                                         
+                                                         </a>
+                                                     </div>
+                                                     <div class="lower-content">
+                                                        <h3><a href="{{ product.url }}">{{ product.productname }}</a></h3>
+                                                        <p class="MsoNormal" style="margin: 0in; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: rgb(0, 0, 0); text-size-adjust: auto;">
+                                                            {{ product.productdescription }}
+                                                           <o:p></o:p>
+                                                        </p>
+                                                     </div>
+                                                  </div>
+                                               </div>
+                                            </div>
+                                         </div>
+
+                                        {% endif %}
+                                        {% endfor %}
+                                    </div>
+                                 </div>
+
+
+                                 <div class="p-tab active-tab" id="p-tab-6">
+                                    <div class="row">
+                                        {% for product in site.pages %}
+                                        {% assign cat = product.category %}
+                                        {% capture thiscat %}Barges{% endcapture %}
+                                        {% if cat contains thiscat %}
+
+                                        <div class="col-md-3">
+                                            <div class="productcard">
+                                               <div class="col-sm">
+                                                  <div class="inner-box">
+                                                     <div class="image">
+                                                        <a href="{{ product.url }}">
+
+                                                         {% if product.sold %}
+                                                         <div style="position:relative">
+                                                            <img src="{{ product.thumbnail }}" style="position: absolute; top: 0; left: 0;" />
+                                                            <img src="uploads/sold.png" />
+                                                          </div>
+                                                          {% else %}
+                                                          <div>
+                                                            <img src="{{ product.thumbnail }}" class="thumbnail" />
+                                                          </div>
+                                                          {% endif %}
+                                                         
+                                                         </a>
+                                                     </div>
+                                                     <div class="lower-content">
+                                                        <h3><a href="{{ product.url }}">{{ product.productname }}</a></h3>
+                                                        <p class="MsoNormal" style="margin: 0in; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: rgb(0, 0, 0); text-size-adjust: auto;">
+                                                            {{ product.productdescription }}
+                                                           <o:p></o:p>
+                                                        </p>
+                                                     </div>
+                                                  </div>
+                                               </div>
+                                            </div>
+                                         </div>
+
+                                        {% endif %}
+                                        {% endfor %}
+                                    </div>
+                                 </div>
+
+                                 <div class="p-tab active-tab" id="p-tab-7">
+                                    <div class="row">
+                                        {% for product in site.pages %}
+                                        {% assign cat = product.category %}
+                                        {% capture thiscat %}Others{% endcapture %}
+                                        {% if cat contains thiscat %}
+
+                                        <div class="col-md-3">
+                                            <div class="productcard">
+                                               <div class="col-sm">
+                                                  <div class="inner-box">
+                                                     <div class="image">
+                                                        <a href="{{ product.url }}">
+
+                                                         {% if product.sold %}
+                                                         <div style="position:relative">
+                                                            <img src="{{ product.thumbnail }}" style="position: absolute; top: 0; left: 0;" />
+                                                            <img src="uploads/sold.png" />
+                                                          </div>
+                                                          {% else %}
+                                                          <div>
+                                                            <img src="{{ product.thumbnail }}" class="thumbnail" />
+                                                          </div>
+                                                          {% endif %}
+                                                         
+                                                         </a>
+                                                     </div>
+                                                     <div class="lower-content">
+                                                        <h3><a href="{{ product.url }}">{{ product.productname }}</a></h3>
+                                                        <p class="MsoNormal" style="margin: 0in; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: rgb(0, 0, 0); text-size-adjust: auto;">
+                                                            {{ product.productdescription }}
+                                                           <o:p></o:p>
+                                                        </p>
+                                                     </div>
+                                                  </div>
+                                               </div>
+                                            </div>
+                                         </div>
+
+                                        {% endif %}
+                                        {% endfor %}
+                                    </div>
+                                 </div>
+
+
+
+
+
                               </div>
                            </div>
                         </div>
