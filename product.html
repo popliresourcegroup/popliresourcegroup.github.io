@@ -170,12 +170,10 @@ permalink: /product.html
 
                                                          <div>
                                                             <img src="{{ product.thumbnail }}" class="thumbnail" />
-                                                            {% if product.sold contains rue %}
+                                                            {% if product.sold %}
                                                             <img src="uploads/sold.png" class="imtip" />
                                                             {% endif %}
                                                           </div>
-                                                         
-                                                         <img src="{{ product.thumbnail }}" />
                                                          
                                                          </a>
                                                      </div>
