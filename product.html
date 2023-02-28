@@ -168,12 +168,16 @@ permalink: /product.html
                                                      <div class="image">
                                                         <a href="{{ product.url }}">
 
-                                                         <div>
-                                                            <img src="{{ product.thumbnail }}" class="thumbnail" />
-                                                            {% if product.sold %}
-                                                            <img src="uploads/sold.png" class="imtip" />
-                                                            {% endif %}
+                                                         {% if product.sold %}
+                                                         <div style="position:relative">
+                                                            <img src="{{ product.thumbnail }}" style="position: absolute; top: 0; left: 0;" />
+                                                            <img src="uploads/sold.png" />
                                                           </div>
+                                                          {% else %}
+                                                          <div>
+                                                            <img src="{{ product.thumbnail }}" class="thumbnail" />
+                                                          </div>
+                                                          {% endif %}
                                                          
                                                          </a>
                                                      </div>
