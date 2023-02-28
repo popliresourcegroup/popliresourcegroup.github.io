@@ -4,9 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: jekyll-pages
-  label: Products
-  create: all
+- type: directory
+  path: product_list
+  label: Product List
+  create: documents
+  match: "**/*"
   templates:
   - product-list
 upload_dir: uploads
