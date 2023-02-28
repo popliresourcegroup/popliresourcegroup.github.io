@@ -199,14 +199,13 @@
                                             <ul class="image-carousel owl-carousel owl-theme">
 
                                                 {% for imageurl in page.detailpictures %}
-                                                <li><img src="{{ imageurl }}" alt=""></li>
-                                                <!-- <li><a target="_blank" href="{{ imageurl }}" class="lightbox-image" data-fancybox="images" data-caption="><img src="{{ imageurl }}" alt=""></a></li> -->
+                                                <li><a target="_blank" href="{{ imageurl }}" class="lightbox-image" data-fancybox="images" data-caption=""><img src="{{ imageurl }}" alt=""></a></li>
                                                 {% endfor %}
                                                     </ul>
                                             <ul class="thumbs-carousel owl-carousel owl-theme">
 
                                                 {% for imageurl in page.detailpictures %}
-                                                <!-- <li><a target="_blank" href="{{ imageurl }}" class="lightbox-image" data-fancybox="images" data-caption="><img src="{{ imageurl }}" alt=""></a></li> -->
+                                                <li><a target="_blank" href="{{ imageurl }}" class="lightbox-image" data-fancybox="images" data-caption=""><img src="{{ imageurl }}" alt=""></a></li>
                                                 {% endfor %}
                                                                                                  
                                             </ul>
