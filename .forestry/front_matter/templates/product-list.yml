@@ -47,5 +47,3 @@ fields:
   type: boolean
   label: Sold
   default: false
-pages:
-- test1.md
