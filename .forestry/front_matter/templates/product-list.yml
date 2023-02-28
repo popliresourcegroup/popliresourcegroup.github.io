@@ -47,5 +47,12 @@ fields:
   type: boolean
   label: Sold
   default: false
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: true
+  default: product
 pages:
 - product_list/woohoo.md
