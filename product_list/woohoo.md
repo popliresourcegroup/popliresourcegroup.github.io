@@ -1,6 +1,7 @@
 ---
 category: Piling Equipment
 productname: Test Machine A
+layout: product
 productdescription: |-
   Very cool machine
   very big
