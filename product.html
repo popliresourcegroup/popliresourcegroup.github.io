@@ -166,8 +166,18 @@ permalink: /product.html
                                                <div class="col-sm">
                                                   <div class="inner-box">
                                                      <div class="image">
-                                                        <a href="{{ product.url }}"><img src="{{ product.thumbnail }}"
-                                                           alt="" /></a>
+                                                        <a href="{{ product.url }}">
+
+                                                         <div>
+                                                            <img src="{{ product.thumbnail }}" class="thumbnail" />
+                                                            {% if product.sold contains rue %}
+                                                            <img src="uploads/sold.png" class="imtip" />
+                                                            {% endif %}
+                                                          </div>
+                                                         
+                                                         <img src="{{ product.thumbnail }}" />
+                                                         
+                                                         </a>
                                                      </div>
                                                      <div class="lower-content">
                                                         <h3><a href="{{ product.url }}">{{ product.productname }}</a></h3>
