@@ -10,6 +10,5 @@ detailpictures:
 - "/uploads/chiyo_chichi.png"
 - "/uploads/tanvi_practice.png"
 sold: false
-published: false
 
 ---
