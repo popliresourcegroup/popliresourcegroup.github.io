@@ -43,3 +43,7 @@ fields:
       file: 
       path: 
   label: Category
+- name: sold
+  type: boolean
+  label: Sold
+  default: false
