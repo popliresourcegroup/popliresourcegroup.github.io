@@ -197,6 +197,9 @@
                                     <div class="image-column">
                                         <div class="carousel-outer">
                                             <ul class="image-carousel owl-carousel owl-theme">
+
+                                                {{ page }}
+                                                {{ page.detailpictures }}
                                                 
                                                 {% for imageurl in page.detailpictures %}
                                                 <li><a target="_blank" href="{{ imageurl }}" class="lightbox-image" data-fancybox="images" data-caption="><img src="{{ imageurl }}" alt=""></a></li>
