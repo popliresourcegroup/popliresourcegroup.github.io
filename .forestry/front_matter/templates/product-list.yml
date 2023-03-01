@@ -54,5 +54,3 @@ fields:
   label: layout
   hidden: true
   default: product
-pages:
-- product_list/woohoo.md
