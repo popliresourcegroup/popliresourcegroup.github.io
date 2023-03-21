@@ -7,15 +7,6 @@ fields:
   config:
     required: true
   label: ProductName
-- name: productdescription
-  type: textarea
-  default: ''
-  config:
-    required: true
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: ProductDescription
 - name: thumbnail
   type: file
   config:
