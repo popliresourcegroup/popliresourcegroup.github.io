@@ -329,8 +329,8 @@ permalink: /product.html
                               <a href="{{ product.url }}">
 
                                  {% if product.sold %}
-                                 <div style="position:relative">
-                                    <img width="1086" height="816" src="{{ product.thumbnail }}" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" sizes="(max-width: 1086px) 100vw, 1086px" style="position: absolute; top: 0; left: 0;" />
+                                 <div style="position:relative; display: inline;">
+                                    <img width="1086" height="816" src="{{ product.thumbnail }}" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" sizes="(max-width: 1086px) 100vw, 1086px"/>
                                     <img width="1086" height="816" src="uploads/sold.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" sizes="(max-width: 1086px) 100vw, 1086px" style="position: absolute; top: 0; left: 0;" />
                                   </div>
                                   {% else %}
