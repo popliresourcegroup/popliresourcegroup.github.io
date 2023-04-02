@@ -414,11 +414,12 @@ permalink: /product.html
       <script>
        if(window.innerWidth < window.innerHeight)
        {
-         document.getElementById("sen_style").href = "./建設機械 _ SEN INTERNATIONAL_files/sen_style_mobile.css"
+         document.getElementById("sen_style").href = "./建設機械 _ SEN INTERNATIONAL_files/sen_style_mobile.css";
 
-         [...document.getElementsByClassName('details_button_sen')].forEach(el => {
-            el.src = "assets/btn_ask2_mobile.png"
-         })
+         var buttons = document.getElementsByClassName("details_button_sen");
+         for (var i = 0; i < buttons.length; i++) {
+            buttons.item(i).src = "assets/btn_ask2_mobile.png";
+         }
        }
       </script>
    </body>
