@@ -316,6 +316,8 @@ permalink: /product.html
 
                         <div id="listbox">
 
+                           <div class="p-tab active-tab" id="p-tab-5">
+
                            {% assign products = site.pages | where_exp: 'page', 'page.layout == "product"' %}
                            {% for product in products %}
 
@@ -336,6 +338,8 @@ permalink: /product.html
                            </div><!-- //end Col -->
 
                            {% endfor %}
+
+                           </div>
                            
                         </div>
                            
