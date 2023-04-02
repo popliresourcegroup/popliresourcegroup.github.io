@@ -273,11 +273,11 @@
 			e.preventDefault();			
 			$('.project-tab .product-tab-btns .p-tab-btn').removeClass('active-btn');
 			$(this).addClass('active-btn');
-			var target = e.innerHTML;
+			var category = e.target.innerHTML.trim();
 			var items = document.getElementsByClassName("listCol");
 			for (var i = 0; i < items.length; i++) {
 				var item = items.item(i)
-				if($(item).hasClass(target))
+				if($(item).hasClass(category))
 				{
 					item.style.display = "block";
 				}
