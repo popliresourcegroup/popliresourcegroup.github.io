@@ -349,8 +349,8 @@ permalink: /product.html
                               <div class="clearfix"></div>
                               </div><!-- //end Col -->
                               
-
-                           {% for product in site.categories.product_list %}
+                           {% assign products = site.pages | where_exp: 'page', 'page.category' %}
+                           {% for product in products %}
 
                            <!-- //end Col -->
                            <div class="listCol">
