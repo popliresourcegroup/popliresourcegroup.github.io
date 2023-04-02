@@ -322,7 +322,7 @@ permalink: /product.html
                            {% for product in products %}
 
                            <!-- //end Col -->
-                           <div class="listCol">
+                           <div class="listCol {{ product.category }}">
                            <h3><a href="{{ product.url }}" rel="bookmark" title="Permanent Link to {{ product.productname }}">{{ product.productname }}</a></h3>
                            
                            <div class="list_thumb">

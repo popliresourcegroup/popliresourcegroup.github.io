@@ -270,17 +270,22 @@
 	//Product Tabs
 	if($('.project-tab').length){
 		$('.project-tab .product-tab-btns .p-tab-btn').on('click', function(e) {
-			e.preventDefault();
+			e.preventDefault();			
+			$('.project-tab .product-tab-btns .p-tab-btn').removeClass('active-btn');
+			$(this).addClass('active-btn');
 			var target = $($(this).attr('data-tab'));
-			
-			if ($(target).hasClass('actve-tab')){
-				return false;
-			}else{
-				$('.project-tab .product-tab-btns .p-tab-btn').removeClass('active-btn');
-				$(this).addClass('active-btn');
-				$('.project-tab .p-tabs-content .p-tab').removeClass('active-tab');
-				$(target).addClass('active-tab');
-			}
+			var items = document.getElementsByClassName("listCol");
+			for (var i = 0; i < items.length; i++) {
+				var item = items.item(i)
+				if(item.hasClass(target))
+				{
+					item.style.display = "block";
+				}
+				else
+				{
+					item.style.display = "none";
+				}
+			}	   
 		});
 	}
 	
