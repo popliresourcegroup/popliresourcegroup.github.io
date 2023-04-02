@@ -349,7 +349,7 @@ permalink: /product.html
                               <div class="clearfix"></div>
                               </div><!-- //end Col -->
                               
-                           {% assign products = site.pages | where_exp: 'page', 'page.layout is "product"' %}
+                           {% assign products = site.pages | where_exp: 'page', 'page.layout == "product"' %}
                            {% for product in products %}
 
                            <!-- //end Col -->
