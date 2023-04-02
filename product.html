@@ -326,7 +326,19 @@ permalink: /product.html
                            <h3><a href="{{ product.url }}" rel="bookmark" title="Permanent Link to {{ product.productname }}">{{ product.productname }}</a></h3>
                            
                            <div class="list_thumb">
-                              <a href="{{ product.url }}"><img width="1086" height="816" src="{{ product.thumbnail }}" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" sizes="(max-width: 1086px) 100vw, 1086px"></a>
+                              <a href="{{ product.url }}">
+
+                                 {% if product.sold %}
+                                 <div style="position:relative">
+                                    <img width="1086" height="816" src="{{ product.thumbnail }}" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" sizes="(max-width: 1086px) 100vw, 1086px" style="position: absolute; top: 0; left: 0;" />
+                                    <img src="uploads/sold.png" />
+                                  </div>
+                                  {% else %}
+                                  <div>
+                                    <img width="1086" height="816" src="{{ product.thumbnail }}" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" sizes="(max-width: 1086px) 100vw, 1086px" />
+                                  </div>
+                                  {% endif %}
+                              </a>
                            </div>
                            
                            <div class="ask3"><a href="{{ product.url }}"><img class="details_button_sen" src="assets/btn_ask2.png" alt="Show more details"></a></div>
