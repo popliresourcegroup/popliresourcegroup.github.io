@@ -4,16 +4,15 @@ productname: AT500CG-Tadano 50m Skylift
 layout: product
 thumbnail: "/uploads/149_preview.jpg"
 detailpictures:
-- "/uploads/149_preview.jpg"
 - "/uploads/1665647624100RIMG0293.jpg"
 - "/uploads/1665647624225RIMG0310.jpg"
 - "/uploads/1665647624791RIMG0286.jpg"
 - "/uploads/1665647624823RIMG0288.jpg"
 - "/uploads/1665647624896RIMG0303.jpg"
 - "/uploads/1665647624973RIMG0311.jpg"
-sold: false
----
+sold: true
 
+---
 50 Meter Tadano Skylift
 
 AT500CG
@@ -25,6 +24,3 @@ AT500CG
 Chassis: Nissan
 
 Used and located in Japan/working condition
-
-
-
