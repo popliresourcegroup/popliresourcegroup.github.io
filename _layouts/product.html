@@ -181,6 +181,18 @@
                                             {% if page.sold %}
                                             <br><h2 style="color:red">THIS PRODUCT WAS ALREADY SOLD</h2>
                                             {% endif %}
+
+                                            <table class="table02">
+                                                <tr>
+                                                <th>MODEL</th><td>{{ page.model }}</td>
+                                                <th>HOURS</th><td>{{ page.hours }}</td>
+                                                </tr>
+                                                <tr>
+                                                <th>YEAR</th><td>{{ page.year }}</td>
+                                                <th>SERIAL</th><td>{{ page.serial_no }}</td>
+                                                </tr>
+                                                </table>
+                  
                                             {{ content }}
                                         </div>
                                         <!--<div class="pull-right">-->

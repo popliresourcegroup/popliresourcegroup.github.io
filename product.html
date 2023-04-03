@@ -343,9 +343,19 @@ permalink: /product.html
                            
                            <div class="ask3"><a href="{{ product.url }}"><img class="details_button_sen" src="assets/btn_ask2.png" alt="Show more details"></a></div>
                            
-                           <div class="comment" style="font-family: 'Courier New', Courier, monospace; font-weight: bold;">
-                              {{ product.content }}
-                           </div>                           
+                           <table class="table02">
+                              <tr>
+                              <th>MODEL</th><td>{{ product.model }}</td>
+                              <th>HOURS</th><td>{{ product.hours }}</td>
+                              </tr>
+                              <tr>
+                              <th>YEAR</th><td>{{ product.year }}</td>
+                              <th>SERIAL</th><td>{{ product.serial_no }}</td>
+                              </tr>
+                              </table>
+                              
+                              <div class="comment">{{ product.content }}</div>
+                               
                            <div class="clearfix"></div>
                            </div><!-- //end Col -->
 
