@@ -28,7 +28,32 @@
     <!--Color Themes-->
     <link id="theme-color-file" href="../public/design/css/color-themes/default-theme.css" rel="stylesheet">
 
-
+    <style>
+    table.table02 {
+        width: 520px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        border-collapse: collapse;
+        font-size: 12px;
+        border: solid 1px #999;
+    }
+    table.table02 th {
+        width: 4em;
+        font-weight:bold;
+        text-align: center;
+        white-space: nowrap;
+        padding: 7px;
+        background: #D6DFF1;
+        border-bottom: solid 1px #999999;
+        border-left: solid 1px #999999;
+    }
+    table.table02 td {
+        text-align: left;
+        padding: 7px;
+        border-bottom: solid 1px #999999;
+        border-left: solid 1px #999999;
+    }
+    </style>
   
 
 </head>
@@ -184,12 +209,12 @@
 
                                             <table class="table02">
                                                 <tr>
-                                                <th>MODEL</th><td>{{ page.model }}</td>
-                                                <th>HOURS</th><td>{{ page.hours }}</td>
+                                                <th>Model</th><td>{{ page.model }}</td>
+                                                <th>Working Hours</th><td>{{ page.hours }}</td>
                                                 </tr>
                                                 <tr>
-                                                <th>YEAR</th><td>{{ page.year }}</td>
-                                                <th>SERIAL</th><td>{{ page.serial_no }}</td>
+                                                <th>Year</th><td>{{ page.year }}</td>
+                                                <th>Serial Number</th><td>{{ page.serial_no }}</td>
                                                 </tr>
                                                 </table>
                   
