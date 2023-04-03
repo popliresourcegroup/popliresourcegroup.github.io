@@ -2,7 +2,7 @@
 category: Mobile Cranes
 productname: AT500CG-Tadano 50m Skylift
 layout: product
-thumbnail: "/uploads/149_preview.jpg"
+thumbnail: "/uploads/1665647624973RIMG0311.jpg"
 detailpictures:
 - "/uploads/1665647624100RIMG0293.jpg"
 - "/uploads/1665647624225RIMG0310.jpg"
@@ -11,16 +11,11 @@ detailpictures:
 - "/uploads/1665647624896RIMG0303.jpg"
 - "/uploads/1665647624973RIMG0311.jpg"
 sold: true
+model: AT500CG
+hours: "9491"
+year: "2000"
+serial_no: "-"
 
 ---
-50 Meter Tadano Skylift
-
-AT500CG
-
-2000yr model
-
-9491 hrs, 29728 kms
-
+50 Meter Tadano Skylift  
 Chassis: Nissan
-
-Used and located in Japan/working condition
