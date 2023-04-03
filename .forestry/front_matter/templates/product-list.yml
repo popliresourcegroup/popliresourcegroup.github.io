@@ -45,3 +45,23 @@ fields:
   label: layout
   hidden: true
   default: product
+- name: year
+  type: text
+  config:
+    required: false
+  label: Year
+- name: hours
+  type: text
+  config:
+    required: false
+  label: Hours
+- name: serial_no
+  type: text
+  config:
+    required: false
+  label: Serial No.
+- name: model
+  type: text
+  config:
+    required: false
+  label: Model
