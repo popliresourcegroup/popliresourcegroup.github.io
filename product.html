@@ -62,13 +62,24 @@ permalink: /product.html
     #searchbar {   
          font-weight: 700;
          font-size: 14px;
-         color: #bababa;
          text-transform: uppercase;
          font-family: "メイリオ", meiryo, Arial, Helvetica;
          padding: 12px 20px 12px 40px;
          width: 100%;
          margin-bottom: 30px;
          border: 2px solid #370b50;
+   }
+
+   #searchbar::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+      color: #bababa;
+   }
+
+   #searchbar:-ms-input-placeholder { /* Internet Explorer 10-11 */
+      color: #bababa;
+   }
+
+   #searchbar::-ms-input-placeholder { /* Microsoft Edge */
+      color: #bababa;
    }
    
     </style>
