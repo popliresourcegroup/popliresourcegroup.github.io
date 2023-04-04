@@ -492,12 +492,9 @@ permalink: /product.html
          }
          for (var i = 0; i < elements.length; i++) {
             var v = elements.item(i);
-            if(searchTerm.length == 0)
-            {
-               $(v).removeClass("search-not-match")
-               $(v).removeClass("search-match")
-            }
-            else
+            $(v).removeClass("search-not-match")
+            $(v).removeClass("search-match")
+            if(searchTerm.length != 0)
             {
                $(v).addClass( v.textContent.includes(searchTerm) ? "search-match" : "search-not-match")
             }
