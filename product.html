@@ -499,7 +499,7 @@ permalink: /product.html
             }
             else
             {
-               $(v).addClass( v.textContent.find(searchTerm)!=-1 ? "search-match" : "search-not-match")
+               $(v).addClass( v.textContent.includes(searchTerm) ? "search-match" : "search-not-match")
             }
          }
       }
