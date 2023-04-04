@@ -318,7 +318,7 @@ permalink: /product.html
 
                            <div class="p-tab active-tab" id="p-tab-5">
 
-                           {% assign products = site.pages | where_exp: 'page', 'page.layout == "product"' %}
+                           {% assign products = site.pages | where_exp: 'page', 'page.layout == "product"' | sort: "sold" %}
                            {% for product in products %}
 
                            <!-- //end Col -->
