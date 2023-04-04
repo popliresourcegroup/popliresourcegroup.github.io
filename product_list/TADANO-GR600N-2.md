@@ -13,9 +13,3 @@ model: GR600-2
 
 ---
 Tadano RT GR600-N2
-
-Model: GR600-2
-
-Year: 2013y
-
-Serial: SN FE0460
