@@ -279,11 +279,11 @@
 				var item = items.item(i)
 				if($(item).hasClass(category))
 				{
-					item.style.display = "block";
+					$(item).addClass('active-cat');
 				}
 				else
 				{
-					item.style.display = "none";
+					$(item).removeClass('active-cat');
 				}
 			}	   
 		});

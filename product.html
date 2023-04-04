@@ -43,6 +43,21 @@ permalink: /product.html
         padding: 0 !important;
     }
 
+    .listCol {
+      display: none;
+    }
+
+    .listCol.search-match {
+      display: block;
+    }
+
+    .listCol.active-cat {
+      display: block;
+    }
+
+    .listCol.active-cat.search-not-match {
+      display: none;
+    }
 
     #searchbar {   
          padding: 12px 20px 12px 40px;
@@ -312,7 +327,7 @@ permalink: /product.html
                         <div class="search-popup search-filter-panel col-md-12 ">
                            <aside class="sidebar searchsidebar fixed-init" id="advanced-search-fixed">
                               <div class="tabs-header">
-                                 <input id="searchbar" type="text" onkeyup="searchProducts()" placeholder="Search posts...">
+                                 <input id="searchbar" type="text" oninput="searchProducts()" placeholder="Search posts...">
                                  <ul class="product-tab-btns clearfix">
                                     <li class="p-tab-btn active-btn" data-tab="#p-tab-2">Crawler Cranes </li>
                                     <li class="p-tab-btn" data-tab="#p-tab-3">Mobile Cranes </li>
@@ -461,6 +476,32 @@ permalink: /product.html
        document.addEventListener("DOMContentLoaded", function(event) { 
          document.getElementsByClassName("p-tab-btn active-btn")[0].click();
       });
+
+      function searchProducts() {
+         var searchbar = document.getElementById("searchbar")
+         var elements = document.getElementsByClassName("listCol");
+         var searchTerm = searchbar.value;
+         if(searchTerm.length == 0)
+         {
+            document.getElementsByClassName("product-tab-btns")[0].style.display = "block"
+         }
+         else
+         {
+            document.getElementsByClassName("product-tab-btns")[0].style.display = "none"
+         }
+         for (var i = 0; i < elements.length; i++) {
+            var v = elements.item(i);
+            if(searchTerm.length == 0)
+            {
+               $(v).removeClass("search-not-match")
+               $(v).removeClass("search-match")
+            }
+            else
+            {
+               $(v).addClass( v.textContent.find(searchTerm)!=-1 ? "search-match" : "search-not-match")
+            }
+         }
+      }
       </script>
    </body>
    <!-- Mirrored from www.popliresources.com/product by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Feb 2023 14:29:08 GMT -->
