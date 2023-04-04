@@ -17,15 +17,15 @@
 			var siteHeader = $('.main-header');
 			var sticky_header = $('.main-header .sticky-header');
 			var scrollLink = $('.scroll-to-top');
-			if (windowpos > 100) {
-				siteHeader.addClass('fixed-header');
-				sticky_header.addClass("animated slideInDown");
-				scrollLink.fadeIn(300);
-			} else {
-				siteHeader.removeClass('fixed-header');
-				sticky_header.removeClass("animated slideInDown");
-				scrollLink.fadeOut(300);
-			}
+			// if (windowpos > 100) {
+			// 	siteHeader.addClass('fixed-header');
+			// 	sticky_header.addClass("animated slideInDown");
+			// 	scrollLink.fadeIn(300);
+			// } else {
+			// 	siteHeader.removeClass('fixed-header');
+			// 	sticky_header.removeClass("animated slideInDown");
+			// 	scrollLink.fadeOut(300);
+			// }
 		}
 	}
 	
