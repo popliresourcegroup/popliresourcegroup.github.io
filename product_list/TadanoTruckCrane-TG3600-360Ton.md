@@ -5,18 +5,14 @@ layout: product
 thumbnail: "/uploads/107_preview.jpg"
 detailpictures:
 - "/uploads/107_preview.jpg"
-sold: false
+sold: true
+year: "1991"
+serial_no: "450110"
+hours: "-"
+model: TG3600M-1
+
 ---
-
-360 Ton Tadano Truck Crane
-
-TG 3600M-1&nbsp;1991yr&nbsp;S.N.450110
+360 Ton Tadano Truck Crane  
+TG 3600M-1 1991yr S.N.450110
 
 Main boom: 51m + Auto Fly Jib + Luffing Jib Attached
-
-Good working condition, Used&nbsp;in Japan and exported to Dubai.
-
-Current location Dubai, but not used in Dubai.
-
-
-
