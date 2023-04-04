@@ -969,7 +969,7 @@ img {
 	left: 0px;
 	top: 0px;
 	width: 0px;
-	height: 4px;
+	height: 0px;
 	background-color: #27509d;
 	-webkit-transition: all 600ms ease;
 	-moz-transition: all 600ms ease;
