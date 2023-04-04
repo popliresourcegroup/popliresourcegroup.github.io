@@ -5,18 +5,13 @@ layout: product
 thumbnail: "/uploads/88_preview.jpg"
 detailpictures:
 - "/uploads/88_preview.jpg"
-sold: false
+sold: true
+year: "1991"
+hours: '10,337'
+serial_no: "580817"
+model: TR500M-2
+
 ---
-
-Tadano Rough Terrain Crane
-
-TR500M-2
-
-1991yr,&nbsp;&nbsp;S.N.&nbsp;580817,&nbsp; 10337Hrs,&nbsp;100,866 kms
-
-45t Hook, 25t, ball hooks&nbsp;
+45t Hook, 25t, ball hooks 
 
 Used and located in Japan, Good working condition
-
-
-
