@@ -14,21 +14,13 @@ detailpictures:
 - "/uploads/165203212395415842130540557.jpg"
 - "/uploads/72_preview.jpg"
 sold: false
----
+year: "1995"
+serial_no: S40-01121L
+model: SS40L
 
+---
 Tomen Hydraulic Vibro Hammer
 
-Model: SS40L YOM: 1995 S.N. S40-01121L
-
-Power Unit attached 
-
-working condition/ Used and located in Japan
-
-Note: Some rust and corrosion on body.
+Power Unit attached
 
 Video Link https://photos.app.goo.gl/FZZqBLgE58Wxfq4w9
-
- 
-
-
-
