@@ -5,16 +5,15 @@ layout: product
 thumbnail: "/uploads/76_preview.jpg"
 detailpictures:
 - "/uploads/76_preview.jpg"
-sold: false
----
+sold: true
+year: "1995"
+hours: "4076"
+serial_no: SC150-1012
+model: SC1500-2
 
-150&nbsp;Ton&nbsp;Sumitomo Crawler Crane
+---
+150 Ton Sumitomo Crawler Crane
 
 (Extra Counter weight for 180 ton lifting also available)
 
-SC1500-2,&nbsp; 1995y, S.N.SC150-1012, 4076&nbsp;Hrs,&nbsp;
-
-85m boom, 30m fly jib, 48m, Luffing jib, 150t, &nbsp;60t, 25t, ball hook
-
-
-
+85m boom, 30m fly jib, 48m, Luffing jib, 150t,  60t, 25t, ball hook
