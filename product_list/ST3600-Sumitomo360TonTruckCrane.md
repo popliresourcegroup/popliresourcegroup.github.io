@@ -14,17 +14,15 @@ detailpictures:
 - "/uploads/1663214922797IMG_7775.JPG"
 - "/uploads/1663214922850IMG_5836.JPG"
 sold: false
----
+year: "1990"
+serial_no: 360-0009
+model: ST3600
 
-360&nbsp;Ton Sumitomo&nbsp;Truck&nbsp;Crane
+---
+360 Ton Sumitomo Truck Crane
 
 ST3600
 
-1990r, S.N.ST360-0009
-
 Auto Jib + Luffing Jib Attached
 
-120 Ton, 70t, 30t, 10t, 5t&nbsp;Hooks Attached.
-
-
-
+120 Ton, 70t, 30t, 10t, 5t Hooks Attached.
