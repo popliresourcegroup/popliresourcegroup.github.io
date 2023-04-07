@@ -418,7 +418,8 @@ body {
 	line-height: 41px;
 	margin: 3px 0 0 0;
 	padding-left: 10px;
-	background: url('https://sij-auto.co.jp/wp/wp-content/themes/SEN/images/h2_null.png') no-repeat 0 0;
+	background: url('/assets/h2_null.png') no-repeat 0 0;
+
 }
 
 /* おすすめ
