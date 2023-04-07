@@ -1,0 +1,1026 @@
+/*
+Theme Name:SEN
+Author:H.Nakazawa
+License:GPL License
+License URI:GPL.txt
+Version:1.0
+*/
+
+/* MAIN STYLES ------------------------------------------- */
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, 
+fieldset, input, textarea, p, blockquote, th, td{
+    margin: 0; 
+    padding: 0;
+}
+html{
+    overflow-y: scroll;
+}
+h1, h2, h3, h4, h5, h6{
+    font-size: 100%; 
+    font-weight: normal;
+}
+ol, ul{
+    list-style:none;
+}
+fieldset, img{
+     border:0;
+}
+table{
+    border-collapse: collapse; 
+    border-spacing:0;
+}
+a {
+	text-decoration:none;
+	color:#218462;
+}
+
+a:hover {
+	text-decoration:underline;
+	color:#22c08a;
+}
+
+a:focus {
+	outline:none;
+}
+
+p {
+	margin:0 0 1em;
+}
+
+a:hover img {
+	opacity:0.8;
+	filter:alpha(opacity=80);
+}
+a:hover img.over {
+	opacity:1;
+	filter:alpha(opacity=100);
+}
+
+/*------------------------------------------------------------------------
+BR Clear Module
+--------------------------------------------------------------------------*/
+.clear {
+	clear: both;
+}
+.clearfix {
+	min-height: 1px;
+}
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	height: 0;
+	visibility: hidden;
+}
+* html .clearfix {
+	height: 1px; /*¥*//*/ height: auto; overflow: hidden; /**/
+}
+
+.clearfloat {
+	clear:both;
+	height:0;
+	line-height: 0px;
+}
+
+/* LAYOUT STRUCTURE-------------------------------------------------- */
+
+body {
+	font-weight:normal;
+	font-family: "メイリオ", meiryo, Arial, Helvetica!important;
+	font-size:12px;
+	color:#000;
+	line-height: 1.8em;
+	margin: 0;
+	padding: 0;
+	background:#fff;
+}
+
+#header {
+	width: 950px;
+	height: 93px;
+	padding: 0;
+	margin: 0 auto 0 auto;
+	background: url(https://sij-auto.co.jp/wp/wp-content/themes/SEN/images/header-1.png);
+}
+
+#header-1 {
+	width: 950px;
+	height: 93px;
+	padding: 0;
+	margin: 0 auto 0 auto;
+	background: url(https://sij-auto.co.jp/wp/wp-content/themes/SEN/images/header-1.png);
+}
+
+#wrapper {
+	width: 1000px;
+	margin: 0 auto 0 auto;
+	padding: 0;
+}
+
+#content {
+	width:950px;
+	margin: 22px auto 0 auto;
+	padding: 0;
+}
+
+.green {
+	color:#218462;
+}
+
+/* HEADER ELEMENTS------------------------------------------ */
+
+#headline {
+	min-width: 1000px;
+	width: 100%;
+	height: 20px;
+	padding: 0;
+	margin: 0 auto 0 auto;
+	background: #000;
+}
+#headline-inner {
+	width: 950px;
+	height: 20px;
+	color: #fff;
+	margin: 0 auto 0 auto;
+}
+#headline-inner a {
+	color: #fff;
+	text-decoration: none;
+}
+#headline-inner a:hover {
+	color: #fff;
+	text-decoration: underline;
+}
+#headline-inner h1 {
+	float: left;
+	font-size:12px;
+	height: 20px;
+	padding: 0;
+	margin: 0;
+}
+#headline-inner ul {
+	float: right;
+	font-family: 'Lato', sans-serif;
+	font-size:11px;
+	letter-spacing: 0;
+	line-height: 20px;
+	padding: 0;
+	margin: 0;
+}
+#headline-inner ul li {
+	display: inline;
+	text-align: left;
+	vertical-align: middle;
+	margin-left: 20px;
+	padding-left: 14px;
+	background: url(https://sij-auto.co.jp/wp/wp-content/themes/SEN/images/arrow.png) no-repeat 0 2px;   
+}
+
+#header #logo {
+	float:left;
+	width: 388px;
+	height: 63px;
+	margin: 12px 0 0 -5px;
+	padding: 0;
+}
+
+#header #searchBox {
+	float: right;
+	width: 168px;
+	height: 23px;
+	margin-top: 56px;
+}
+#header #searchform4 {  
+	width: 168px;  
+	background: url(https://sij-auto.co.jp/wp/wp-content/themes/SEN/images/search_box.png) left top no-repeat;   
+	display: block;  
+	height: 23px;  
+	position: relative;  
+}  
+#header #keywords4  {
+	height: 18px;  
+	font-size: 10px;
+	color: #999;
+	width: 125px;  
+	position: absolute;  
+	top: 2px;  
+	left: 12px;  
+	border: 1px solid #FFF;  
+}  
+#header #searchBtn4 { 
+	position: absolute;   
+	top: 0px;  
+	left: 142px;  
+} 
+
+
+/* Navi-------------------------------------------------- */
+#menu {
+	height: 51px;
+	padding: 0;
+	margin: 0;
+}
+
+#menu ul.global-navi {
+	width: 952px;
+	margin: 0 auto 0 auto;
+	padding: 0;
+	background: url(https://sij-auto.co.jp/wp/wp-content/themes/SEN/images/navi.png) no-repeat 0 0;
+}
+
+#menu ul.global-navi li {
+	float: left;
+	height: 51px;
+	width: 190px;
+	margin: 0;
+	text-indent: -9999px;
+	background: url(https://sij-auto.co.jp/wp/wp-content/themes/SEN/images/navi.png) no-repeat 0 0;
+}
+
+#menu ul.global-navi li a {
+	display: block;
+	height: 51px;
+	background: url(https://sij-auto.co.jp/wp/wp-content/themes/SEN/images/navi.png) no-repeat 0 0;
+}
+
+#menu ul.global-navi li.navi1 a {
+	width: 191px;
+	background-position: 0px top;
+}
+#menu ul.global-navi li.navi2 a {
+	background-position: -191px top;
+}
+#menu ul.global-navi li.navi3 a {
+	background-position: -381px top;
+}
+#menu ul.global-navi li.navi4 a {
+	background-position: -571px top;
+}
+#menu ul.global-navi li.navi5 a {
+	width: 191px;
+	background-position: -761px top;
+}
+
+#menu ul.global-navi li.navi1 a:hover {
+	width: 191px;
+	background-position: 0px bottom;
+}
+#menu ul.global-navi li.navi2 a:hover {
+	background-position: -191px bottom;
+}
+#menu ul.global-navi li.navi3 a:hover {
+	background-position: -381px bottom;
+}
+#menu ul.global-navi li.navi4 a:hover {
+	background-position: -571px bottom;
+}
+#menu ul.global-navi li.navi5 a:hover {
+	width: 191px;
+	background-position: -761px bottom;
+}
+
+
+/* FOOTER ELEMENTS
+-------------------------------------------- */
+
+#footer {
+	min-width: 1000px;
+	width: 100%;
+	height: 172px;
+	margin: 0;
+	padding: 0;
+}
+
+#footer_in {
+	min-width: 1000px;
+	width: 100%;
+	height: 138px;
+	text-align: center;
+	margin: 0;
+	padding: 20px 0;
+	background: #2d874f;
+}
+
+#top {
+	width: 950px;
+	height: 34px;
+	text-align: right;
+	margin: 20px auto 0 auto;
+}
+
+#footer ul {
+	font-size: 12px;
+	letter-spacing: 0;
+	line-height: 20px;
+	padding: 0;
+	margin: 0;
+}
+#footer ul li {
+	display: inline;
+	color: #fff;
+	text-align: left;
+	vertical-align: middle;
+	margin-left: 14px;
+	padding-left: 14px;
+	border-left: solid 1px #fff;
+}
+
+#footer ul li.first {
+	margin-left: 0;
+	padding-left: 0;
+	border-left: none;
+}
+
+#footer ul li a {
+	color: #fff;
+}
+
+#footer p {
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400; 
+	letter-spacing: 0.1em;
+	padding: 0;
+	margin: 40px 0 0 0;
+}
+
+
+/*------------------------------------------------------------------------
+ TOPページ
+ --------------------------------------------------------------------------*/
+
+/* ボディタイプ
+----------------------------------------------- */
+
+#content #BoxType_top {
+	width: 950px;
+	height: 45px;
+	margin: 0;
+	padding: 0;
+	text-indent: -9999px;
+	background: url('https://sij-auto.co.jp/wp/wp-content/themes/SEN/images/box_type_top.png') no-repeat 0 0;
+}
+
+#content #BoxType_body {
+	width: 950px;
+	margin: 0;
+	padding: 17px 0 0 0;
+	background: url('https://sij-auto.co.jp/wp/wp-content/themes/SEN/images/box_type_body.png') repeat-y 0 0;
+}
+
+#content #BoxType_bottom {
+	width: 950px;
+	height: 17px;
+	margin: 0 0 25px 0;
+	padding: 0;
+	background: url('https://sij-auto.co.jp/wp/wp-content/themes/SEN/images/box_type_bottom.png') no-repeat 0 0;
+}
+
+#content #BoxType_body ul.typelist {
+	width: 950px;
+	margin: 0;
+	padding: 0 0 5px 10px;
+	list-style-type: none;
+}
+
+#content #BoxType_body ul.typelist li {
+	float: left;
+	width: 105px;
+	padding: 0;
+	margin: 0 0 5px 10px;
+}
+
+#content h2 {
+	width: 950px;
+	height: 41px;
+	padding: 0;
+	margin: 0;
+}
+#content h2.osusume {
+	margin: 0 0 12px 0;
+	text-indent: -9999px;
+	background: url('https://sij-auto.co.jp/wp/wp-content/themes/SEN/images/h2_osusume.png') no-repeat 0 0;
+}
+#content h2.new {
+	width: 442px;
+	height: 31px;
+	margin: 10px 10px 15px 10px;
+	text-indent: -9999px;
+	background: url('https://sij-auto.co.jp/wp/wp-content/themes/SEN/images/h2_new.png') no-repeat 0 0;
+}
+
+#content h2.null {
+	width: 950px;
+	height: 41px;
+	color: #fff;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 41px;
+	margin: 3px 0 0 0;
+	padding-left: 10px;
+	background: url('https://sij-auto.co.jp/wp/wp-content/themes/SEN/images/h2_null.png') no-repeat 0 0;
+}
+
+/* おすすめ
+----------------------------------------------- */
+
+#content ul.osusume {
+	width: 960px;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+#content ul.osusume li {
+	float: left;
+	width: 176px;
+	min-height: 420px;
+	padding: 0;
+	margin: 0 10px 25px 0;
+	border: solid 3px #b7b7b7;
+	position: relative;
+}
+
+#content ul.osusume .top_thumb {
+	z-index: 1;
+	margin: 8px;
+	padding: 0;
+	list-style-type: none;
+	position: relative;
+}
+#content ul.osusume .top_thumb img {
+	width: 160px;
+	height: 120px;
+}
+
+#content ul.osusume .new {
+	z-index: 2;
+	width: 41px;
+	height: 41px;
+	left: 2px;
+	top: 2px;
+	position: absolute;
+}
+#content ul.osusume .new img {
+	width: 41px;
+	height: 41px;
+}
+
+#content ul.osusume li dl.top_list {
+	width: 160px;
+	padding: 0;
+	margin: 0 8px 10px 8px;
+}
+#content ul.osusume li dl.top_list dt {
+	float: left;
+	width: 42px;
+	color: #fff;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+	background: #218462;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+#content ul.osusume li dl.top_list dd {
+	line-height:1.5em;
+	padding: 0 0 0 48px;
+	margin: 0 0 5px 0;
+}
+#content ul.osusume li dl.top_list dd.name {
+	font-weight: bold;
+}
+#content ul.osusume li dl.top_list dd .price {
+	color: #e10c39;
+	font-size: 14px;
+	font-weight: bold;
+	line-height:1.8em;
+	margin-right: 2px;
+}
+#content ul.osusume li dl.top_list dd .ask {
+	color: #0058DD;
+	font-size: 14px;
+	font-weight: bold;
+	line-height:1.8em;
+	margin-right: 2px;
+}
+#content ul.osusume li dl.top_list dd.other {
+	text-align : justify;
+}
+
+#content ul.osusume li .gopage{
+	width: 160px;
+	padding: 0;
+	margin: 0 8px 10px 8px;
+	left: 0px;
+	top: 365px;
+	position: absolute;
+}
+
+/* 新着情報
+----------------------------------------------- */
+
+#content .newicon {
+	color: #fff;
+	text-align: center;
+	padding: 0 2px 0 2px;
+	margin: 0 3px 0 0;
+	background: #dd1944;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+
+#content #news {
+	float: left;
+	width: 462px;
+	height: 236px;
+	padding: 0;
+	margin: 0 0 10px 0;
+	border: solid 1px #b7b7b7;
+}
+
+#content #news_box {
+	overflow-x : hidden;
+	width: 432px;
+	height: 160px;
+	margin: 0 0 5px 10px;
+	padding-right: 10px;
+	padding-bottom: 15px;
+}
+
+#content #news dl p {
+	line-height:1.5em;
+	text-align : justify;
+	padding: 0;
+	margin: 0;
+}
+
+#content #news dl dt {
+	float: left;
+	width: 7em;
+	font-weight: bold;
+	padding: 0 4px 1px 4px;
+}
+
+#content #news dl dd {
+	margin-left: 9em;
+	line-height:1.5em;
+	margin-bottom: 20px;
+	padding: 0 4px 0 0;
+}
+
+#content #news dl dd.ttl {
+	font-weight: bold;
+	margin: 0 0 3px 9em;
+	padding: 0;
+}
+
+/* バナー
+----------------------------------------------- */
+
+#content #bannerBox {
+	float: right;
+	width: 464px;
+	padding: 0;
+	margin: 0 0 10px 0;
+}
+
+#content .mb10 {
+	margin-bottom: 14px;
+}
+
+/*------------------------------------------------------------------------
+ シングルページ
+ --------------------------------------------------------------------------*/
+
+#content p {
+	margin: 0;
+	padding: 0;
+}
+
+.photospace .thumnail_col {
+    float:right  !important;
+}
+.photospace .gal_content {
+    float:left  !important;
+}
+.photospace ul.thumbs li {
+    margin-left:10px;
+    margin-right:0 !important;
+}
+.photospace .thumnail_col a.pageLink {
+    float:right  !important;
+    margin-left:0px;
+    margin-right:0;
+}
+
+.comment {
+	width: 950px;
+	line-height:1.8em;
+}
+
+#price_b {
+	height: 41px;
+	font-size: 14px;
+	line-height:41px;
+	margin: 10px 0 0 0;
+	padding-left: 10px;
+	background: #cef2dc;
+	border: solid 2px #999;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+}
+.price2 {
+	color: #e10c39;
+	font-size: 21px;
+	font-weight: bold;
+	margin: 0 2px 0 5px;
+}
+
+.ask2 {
+	color: #0058DD;
+	font-size: 21px;
+	font-weight: bold;
+	margin: 0 2px 0 5px;
+}
+
+table#table01 {
+	width: 950px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	border-collapse: collapse;
+	font-size: 12px;
+	border: solid 1px #999;
+}
+table#table01 th {
+	font-weight:bold;
+	text-align: left;
+	white-space: nowrap;
+	padding: 7px;
+	background: #D6DFF1;
+	border-bottom: solid 1px #999999;
+	border-left: solid 1px #999999;
+}
+table#table01 td {
+	text-align: left;
+	padding: 7px;
+	border-bottom: solid 1px #999999;
+	border-left: solid 1px #999999;
+}
+
+.btn_Lft {
+	float: left;
+	width: 390px;
+	height: 90px;
+	margin: 0;
+	padding: 0;
+}
+
+.btn_Rgt {
+	float: right;
+	width: 544px;
+	height: 90px;
+	margin: 0;
+	padding: 0;
+}
+
+
+/*------------------------------------------------------------------------
+ 固定ページ
+ --------------------------------------------------------------------------*/
+
+#content #pages {
+	min-height: 550px;
+	margin: 0;
+	padding: 0;
+}
+
+#content h2.about {
+	width: 950px;
+	height: 41px;
+	margin: 0 0 35px 0;
+	text-indent: -9999px;
+	background: url('https://sij-auto.co.jp/wp/wp-content/themes/SEN/images/h2_about.png') no-repeat 0 0;
+}
+#content h2.sell {
+	width: 950px;
+	height: 41px;
+	margin: 0 0 35px 0;
+	text-indent: -9999px;
+	background: url('https://sij-auto.co.jp/wp/wp-content/themes/SEN/images/h2_sell.png') no-repeat 0 0;
+}
+#content h2.company {
+	width: 950px;
+	height: 41px;
+	margin: 0 0 35px 0;
+	text-indent: -9999px;
+	background: url('https://sij-auto.co.jp/wp/wp-content/themes/SEN/images/h2_company.png') no-repeat 0 0;
+}
+#content h2.inquiry {
+	width: 950px;
+	height: 41px;
+	margin: 0 0 35px 0;
+	text-indent: -9999px;
+	background: url('https://sij-auto.co.jp/wp/wp-content/themes/SEN/images/h2_inquiry.png') no-repeat 0 0;
+}
+#content h2.company {
+	width: 950px;
+	height: 41px;
+	margin: 0 0 35px 0;
+	text-indent: -9999px;
+	background: url('https://sij-auto.co.jp/wp/wp-content/themes/SEN/images/h2_company.png') no-repeat 0 0;
+}
+#content h2.privacy {
+	width: 950px;
+	height: 41px;
+	margin: 0 0 35px 0;
+	text-indent: -9999px;
+	background: url('https://sij-auto.co.jp/wp/wp-content/themes/SEN/images/h2_pryvacy.png') no-repeat 0 0;
+}
+#content h2.term {
+	width: 950px;
+	height: 41px;
+	margin: 0 0 35px 0;
+	text-indent: -9999px;
+	background: url('https://sij-auto.co.jp/wp/wp-content/themes/SEN/images/h2_terms.png') no-repeat 0 0;
+}
+#content h2.faq {
+	width: 950px;
+	height: 41px;
+	margin: 0 0 35px 0;
+	text-indent: -9999px;
+	background: url('https://sij-auto.co.jp/wp/wp-content/themes/SEN/images/h2_faq.png') no-repeat 0 0;
+}
+#content h2.sitemap {
+	width: 950px;
+	height: 41px;
+	margin: 0 0 35px 0;
+	text-indent: -9999px;
+	background: url('https://sij-auto.co.jp/wp/wp-content/themes/SEN/images/h2_sitemap.png') no-repeat 0 0;
+}
+
+.tbl1{
+	width: 900px;
+	border-collapse:collapse;
+	border-top:1px #dddbdb solid;
+	border-left:1px #dddbdb solid;
+	margin: 0 0 0 25px;
+}
+.tbl1 th, .tbl1 td{
+	padding:10px 20px;
+	border-right:1px #dddbdb solid;
+	border-bottom:1px #dddbdb solid;
+	font-size:12px;
+}
+.tbl1 th{
+	width: 20em;
+	font-weight: bold;
+	text-align:left;
+	background:#EDEDED;
+}
+
+
+/*------------------------------------------------------------------------
+アーカイブページ
+ --------------------------------------------------------------------------*/
+
+#listbox {
+	width: 950px;
+	margin: 20px 0 0 0;
+}
+
+.listCol {
+	width: 946px;
+	margin: 0 0 10px 0;
+	padding: 0;
+	border: solid 2px #999;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+}
+
+.listCol h3 {
+	font-size:16px;
+	font-weight: bold;
+	border-bottom: solid 1px #999;
+	margin: 15px 15px 15px 15px;
+}
+
+.listCol .list_thumb {
+	float: left;
+	width: 180px;
+	overflow: hidden;
+	margin: 0 15px 15px 15px;
+}
+
+.listCol .list_thumb img {
+	width: 180px;
+	height: auto;
+}
+
+table.table02 {
+	width: 520px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-collapse: collapse;
+	font-size: 12px;
+	border: solid 1px #999;
+}
+table.table02 th {
+	width: 4em;
+	font-weight:bold;
+	text-align: center;
+	white-space: nowrap;
+	padding: 7px;
+	background: #D6DFF1;
+	border-bottom: solid 1px #999999;
+	border-left: solid 1px #999999;
+}
+table.table02 td {
+	text-align: left;
+	padding: 7px;
+	border-bottom: solid 1px #999999;
+	border-left: solid 1px #999999;
+}
+
+.listCol .price {
+	color: #e10c39;
+	font-size: 14px;
+	font-weight: bold;
+	line-height:1.8em;
+	margin-right: 2px;
+}
+.listCol .ask {
+	color: #0058DD;
+	font-size: 14px;
+	font-weight: bold;
+	line-height:1.8em;
+	margin-right: 2px;
+}
+
+
+.listCol .comment {
+	width: 730px;
+	line-height:1.5em;
+}
+
+.listCol .ask3 {
+	float: right;
+	width: 190px;
+	height: 135px;
+	overflow: hidden;
+	margin: 0 15px 15px 0;
+}
+
+.wp-pagenavi {
+	clear: both;
+	margin: 20px 0;
+}
+
+.wp-pagenavi a, .wp-pagenavi span {
+	text-decoration: none;
+	border: 1px solid #BFBFBF;
+	padding: 3px 5px;
+	margin: 2px;
+}
+
+.wp-pagenavi a:hover, .wp-pagenavi span.current {
+	border-color: #000;
+}
+
+.wp-pagenavi span.current {
+	color: #fff;
+	font-weight: bold;
+	background: #65D689;
+}
+
+
+/* FORM
+------------------------------------------- */
+#respond {
+	width: 890px;
+	margin: 0 0 0 25px;
+}
+
+#respond .formttl {
+	font-size: 16px;
+	font-weight: bold;
+	margin: 0 0 5px 0;
+}
+
+table.table03 {
+	width: 890px;
+	margin-bottom: 20px;
+	border-collapse: collapse;
+	font-size: 12px;
+	border: solid 1px #949292;
+}
+table.table03 td.td01 {
+	font-weight:bold;
+	text-align: left;
+	white-space: nowrap;
+	padding: 10px 2px 10px 10px;
+	background: #FFFBE9;
+	border-bottom: solid 1px #949292;
+	border-left: solid 3px #2C874F;
+}
+table.table03 td.td02 {
+	text-align: left;
+	padding: 10px ;
+	border-bottom: solid 1px #949292;
+	border-left: solid 1px #949292;
+	background: #fff;
+}
+table.table03 td.td03 {
+	text-align: center;
+	white-space: nowrap;
+	padding: 10px 10px 10px 0;
+	background: #FFFBE9;
+	border-bottom: solid 1px #949292;
+}
+
+#respond input[type="text"] {
+	width: 480px;
+	height: 25px;
+	text-align: left;
+	font-family:Arial, sans-serif;
+	border:1px solid #B7B5B5;
+	background: #fff;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+
+#respond textarea {
+	width: 480px;
+	height: 180px;
+	text-align: left;
+	font-family:Arial, sans-serif;
+	border:1px solid #B7B5B5;
+	background: #fff;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+
+#respond input[type="submit"]{
+	border: none;
+	padding: 10px 60px 10px 60px;
+	margin: 5px 0 10px 0;
+	color:#fff;
+	font-size:16px;
+	font-weight: bold;
+	letter-spacing: 0.2em;
+	cursor:pointer;
+	background: #34BA3A;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+
+.exp {
+	font-size:12px;
+	font-weight:bold;
+	color:#fff;
+	padding: 1px 2px 1px 2px;
+	margin: 0;
+	background: #DC616F;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+#respond .tofax {
+	text-align: center;
+	padding: 10px 0 10px 0;
+	margin: 5px 0 10px 0;
+	font-size:16px;
+	font-weight: bold;
+	letter-spacing: 0.2em;
+	cursor:pointer;
+	border: solid 2px #34BA3A;
+	background: #8FEE8E;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+
+/* SiteMap
+------------------------------------------- */
+
+.mapttl {
+	font-size: 14px;
+	font-weight: bold;
+	margin: 0 0 15px 25px;
+	border-bottom: solid 1px #ddd;
+}
+
+ul.sitemap {
+	width: 400px;
+	font-size: 14px;
+	margin: 0 0 65px 25px;
+}
+
+ul.sitemap li {
+	margin: 0 0 15px 25px;
+	border-bottom: dotted 1px #ddd;
+}
