@@ -425,7 +425,7 @@
                                     width: 40%;
                                     margin-bottom: 0.5rem;
                                 }
-                                input {
+                                input, textarea {
                                     width: 100%;
                                     appearance: none;
                                 background-color: transparent;
@@ -435,6 +435,25 @@
                                 box-sizing: inherit;
                                 height: 1rem;
                                 padding: 0.6rem 1rem;
+                                }
+
+                                button {
+                                    background-color: #ffd939;
+                                    border: 0.1rem solid #370b50;
+                                    border-radius: 0.4rem;
+                                    color: #370b50;
+                                    cursor: pointer;
+                                    display: inline-block;
+                                    font-size: 1.1rem;
+                                    font-weight: 700;
+                                    height: 3.8rem;
+                                    letter-spacing: .1rem;
+                                    line-height: 3.8rem;
+                                    padding: 0 3rem;
+                                    text-align: center;
+                                    text-decoration: none;
+                                    text-transform: uppercase;
+                                    white-space: nowrap;
                                 }
                                 
                             </style>
@@ -496,6 +515,7 @@
                             <input type="hidden" name="From_URL" value="{{ page.url }}">
                             <input id="contact_form_user_info" type="hidden" name="User_Info" value="UNKNOWN - PROBABLY SPAM">
                             <!-- your other form fields go here -->
+                            <br>
                             <button type="submit">Send</button>
                             </form>
 
