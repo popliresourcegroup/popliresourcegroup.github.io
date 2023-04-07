@@ -419,8 +419,64 @@
                             </tbody></table>
                             </div><!-- //end POST -->
                                 
-                            
-                            
+
+                            <script>
+                                window.onload = function() {
+                                  var urls=[
+                                  "https://formspree.io/f/mrgvogqw"
+                                  ];
+                                  var contactForm = document.getElementById("contact_form");
+                                  contactForm.action = urls[Math.floor(Math.random() * urls.length)];
+                              
+                                  var xhr = new XMLHttpRequest;
+                                  xhr.open('GET', "https://ifconfig.me/all", true);
+                                  xhr.onload = function (e) {
+                                      if (xhr.readyState === 4) {
+                                          if (xhr.status === 200) {
+                                              var userInfo = document.getElementById("contact_form_user_info");
+                                              userInfo.value = xhr.responseText;
+                                          } else {
+                                              console.error(xhr.statusText);
+                                          }
+                                      }
+                                  };
+                                  xhr.send();
+                                }
+                              </script>
+
+
+                            <!-- modify this form HTML and place wherever you want your form -->
+                            <form
+                            id="contact_form"
+                            method="POST"
+                            action="https://www.example.com">
+                            <label>
+                            Your Name:
+                            <input type="text" name="name">
+                            </label>                            
+                            <label>
+                            Company name:
+                            <input type="text" name="company_name">
+                            </label>                            
+                            <label>
+                            Email address:
+                            <input type="email" name="email">
+                            </label>                            
+                            <label>
+                            Phone number:
+                            <input type="text" name="phone number">
+                            </label>                            
+                            <label>
+                            Your message:
+                            <textarea name="message"></textarea>
+                            </label>
+                            <input type="hidden" name="From_URL" value="{{ page.url }}">
+                            <input id="contact_form_user_info" type="hidden" name="User_Info" value="UNKNOWN - PROBABLY SPAM">
+                            <!-- your other form fields go here -->
+                            <button type="submit">Send</button>
+                            </form>
+
+
                             
                             <div class="clearfix"></div>
                             
