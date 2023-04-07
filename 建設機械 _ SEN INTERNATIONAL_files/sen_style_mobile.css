@@ -307,16 +307,15 @@ body,html {
 }
 
 #content h2.null {
-	width:97%;
-	color: #fff;
+	width: 950px;
+	height: 41px;
+	color: #370b50;
 	font-size: 18px;
 	font-weight: bold;
-	line-height: 1.3em;
-	margin: 3px 0 0 0;
-	padding: 3px 5px 3px 5px;
-	background: #22A523;
-	-webkit-border-radius: 4px;
-	border-radius: 4px;
+	line-height: 41px;
+	margin: 3px 0 20px 0;
+	padding-left: 10px;
+	background: url('/assets/h2_null.png') no-repeat 0 0;
 }
 
 /* おすすめ
@@ -620,8 +619,7 @@ dd.comment2 iframe {
 }
 
 table#table01 {
-	clear: both;
-	width: 100%;
+	width: 950px;
 	margin-top: 10px;
 	margin-bottom: 10px;
 	border-collapse: collapse;
