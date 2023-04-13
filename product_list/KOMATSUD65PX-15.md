@@ -13,15 +13,9 @@ detailpictures:
 - "/uploads/1665646163447004.jpg"
 - "/uploads/1665646163457003.jpg"
 sold: true
+year: "2005"
+hours: '20,201'
+model: D65PX-15
 
 ---
-**Model: D65PX-15**
-
-**Year: 2005**
-
-**Hours: 20,201**
-
-**800G, A/C,**
-
-**950LGP. CAB. A/C. ST/TILT. EPA  
-Good working condition**
+**950LGP. CAB. A/C. ST/TILT. EPA**
