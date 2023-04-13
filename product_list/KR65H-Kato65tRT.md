@@ -2,7 +2,7 @@
 category: Mobile Cranes
 productname: KR65H-Kato 65t RT
 layout: product
-thumbnail: "/uploads/52_preview.jpg"
+thumbnail: "/uploads/screenshot-2023-04-13-at-12-08-30.png"
 detailpictures:
 - "/uploads/1651773554176008.jpg"
 - "/uploads/1651773554317002.jpg"
@@ -15,19 +15,13 @@ detailpictures:
 - "/uploads/1651773554644007.jpg"
 - "/uploads/1651773554651011.jpg"
 - "/uploads/1651773554950010.jpg"
-- "/uploads/52_preview.jpg"
-sold: false
+sold: true
+year: "2005"
+hours: '25,280'
+serial_no: '0310071'
+model: KR65H
+
 ---
-
-65 Tons Kato Rough Terrain
-
-KR65H,&nbsp;&nbsp;2005y,&nbsp; S.N. 0310071, &nbsp;79461 kms,&nbsp; 25280hrs
-
 65, 34t, ball hooks.
 
-Working&nbsp;condition,
-
- Used and located in Japan.
-
-
-
+Used and located in Japan.
