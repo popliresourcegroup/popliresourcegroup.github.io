@@ -65,3 +65,5 @@ fields:
   config:
     required: false
   label: Model
+pages:
+- product_list/CAT 320.md
