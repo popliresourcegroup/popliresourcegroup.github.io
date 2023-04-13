@@ -12,8 +12,12 @@ detailpictures:
 - "/uploads/1663217704353PC200-8N1_312123_03.JPG"
 - "/uploads/1663217704859PC200-8N1_312123_01.JPG"
 sold: false
----
+year: "2007"
+hours: '16,393'
+serial_no: "312123"
+model: PC200-8N1
 
+---
 KOMATSU EXCAVATOR 
 
 Model: PC200-8N1
@@ -27,6 +31,3 @@ Hours: 16,393
 STD BUCKET, A/C,  Multi
 
 Good working condition, little dent on left cover.
-
-
-
