@@ -2,22 +2,19 @@
 category: Piling Equipment
 productname: DH508 (1993y）Piling Rig
 layout: product
-thumbnail: "/uploads/91_preview.jpg"
+thumbnail: "/uploads/20220823_130441.jpg"
 detailpictures:
-- "/uploads/91_preview.jpg"
+- "/uploads/20220823_130629.jpg"
+- "/uploads/20220823_130441.jpg"
+- "/uploads/20220823_130517.jpg"
+- "/uploads/20220823_130422.jpg"
+- "/uploads/20220823_130527.jpg"
 sold: true
+year: "1993"
+serial_no: N57701
+model: DH508-105M
 
 ---
-&nbsp;Nippon Sharyo Piling Rig offer from Japan.
-
-Model:&nbsp;DH508-105M
-
-S.N.: N57701
-
-1993y
-
 3rd Drum Attached
 
 Leader: about 30m-? checking.
-
-Used and located in Japan/ Good working condition
