@@ -2,7 +2,7 @@
 category: Mobile Cranes
 productname: HC78BS - Link Belt Mechanical TC
 layout: product
-thumbnail: "/uploads/61_preview.jpg"
+thumbnail: "/uploads/screenshot-2023-04-13-at-16-38-39.png"
 detailpictures:
 - "/uploads/16519354474461 (23).jpg"
 - "/uploads/16519354474871 (24).jpg"
@@ -10,9 +10,11 @@ detailpictures:
 - "/uploads/16519354475841 (22).jpg"
 - "/uploads/16519354476341 (21).jpg"
 - "/uploads/16519354476601 (26).jpg"
-- "/uploads/61_preview.jpg"
-sold: false
+sold: true
+year: "1977"
+hours: '6,903'
+serial_no: HC78-58225
+model: HC78
+
 ---
-
-35 Ton Sumitomo mechanical truck craneModel: HC78BS1977yr, S.N-HC78-58225m boom+ Main hook, Ball Hook Chassis: Nissan,   11,171km, 6903hourUsed and located in Japan/Working condition
-
+boom+ Main hook, Ball Hook Chassis: Nissan
