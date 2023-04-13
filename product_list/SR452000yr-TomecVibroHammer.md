@@ -2,7 +2,7 @@
 category: Piling Equipment
 productname: SR45 (2000yr)- Tomec Vibro Hammer
 layout: product
-thumbnail: "/uploads/24_preview.jpg"
+thumbnail: "/uploads/screenshot-2023-04-13-at-10-53-18.png"
 detailpictures:
 - "/uploads/16485196181219.jpg"
 - "/uploads/1648519618136123.JPG"
