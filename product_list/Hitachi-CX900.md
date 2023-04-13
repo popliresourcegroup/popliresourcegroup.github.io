@@ -2,25 +2,18 @@
 category: Crawler Cranes
 productname: Hitachi - CX900
 layout: product
-thumbnail: "/uploads/103_preview.jpg"
+thumbnail: "/uploads/photo-2022-02-28-12-12-04.png"
 detailpictures:
-- "/uploads/103_preview.jpg"
-sold: false
+- "/uploads/photo-2022-02-28-12-12-01-2.png"
+- "/uploads/photo-2022-02-28-12-11-01.jpg"
+- "/uploads/photo-2022-02-28-12-11-08.jpg"
+sold: true
+year: "2001"
+hours: '13,520'
+serial_no: 250P000168
+model: CX900
+
 ---
-
-90 Ton Hitachi Crawler Crane
-
-CX900
-
-2001yr
-
-S.N. 250P000168
-
-13520 Hrs
-
 40m Boom, Main Hook, Middle Hook and Ball Hooks attached
 
 Good working condition/ Used and located in Japan
-
-
-
