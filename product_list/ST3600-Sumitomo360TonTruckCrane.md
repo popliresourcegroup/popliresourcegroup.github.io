@@ -13,7 +13,7 @@ detailpictures:
 - "/uploads/1663214922660DSC09995.jpg"
 - "/uploads/1663214922797IMG_7775.JPG"
 - "/uploads/1663214922850IMG_5836.JPG"
-sold: false
+sold: true
 year: "1990"
 serial_no: 360-0009
 model: ST3600
