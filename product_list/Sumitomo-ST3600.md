@@ -2,9 +2,11 @@
 category: Mobile Cranes
 productname: Sumitomo - ST3600
 layout: product
-thumbnail: "/uploads/108_preview.jpg"
+thumbnail: "/uploads/dsc09955.jpg"
 detailpictures:
-- "/uploads/108_preview.jpg"
+- "/uploads/dsc09981.jpg"
+- "/uploads/dsc00114.jpg"
+- "/uploads/dsc09955.jpg"
 sold: true
 year: "1996"
 serial_no: ST360-0010
