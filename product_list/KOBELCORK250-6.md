@@ -14,23 +14,12 @@ detailpictures:
 - "/uploads/1665645945692004.jpg"
 - "/uploads/1665645945742002.jpg"
 sold: false
+year: "2007"
+hours: '40,963'
+serial_no: EZ08-10349
+model: RK250-6
+
 ---
-
-25 Ton Kobelco Rough Terrain Crane
-
-RK250-6,&nbsp; 2007yr,&nbsp;&nbsp;S.N. EZ08-10349, &nbsp;179217 kms , 40963 hrs.
-
 X Type Outrigger/ Auto Jib/ 25t/ ball hooks
 
-Used and located in Japan/Good working condition
-
-
-
-
-
-Video Link
-
-https://photos.app.goo.gl/9rfTQ9MmioMymVHJ7
-
-
-
+Video Link: https://photos.app.goo.gl/9rfTQ9MmioMymVHJ7
