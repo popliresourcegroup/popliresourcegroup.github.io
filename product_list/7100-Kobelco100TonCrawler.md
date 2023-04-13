@@ -2,7 +2,7 @@
 category: Crawler Cranes
 productname: 7100 - Kobelco 100 Ton Crawler
 layout: product
-thumbnail: "/uploads/69_preview.jpg"
+thumbnail: ''
 detailpictures:
 - "/uploads/1651938540361041.jpg"
 - "/uploads/1651938540505009.jpg"
@@ -16,20 +16,10 @@ detailpictures:
 - "/uploads/1651938540880040.jpg"
 - "/uploads/1651938540916001.jpg"
 - "/uploads/69_preview.jpg"
-sold: false
+sold: true
+year: "1996"
+hours: '16,072'
+model: "7100"
+
 ---
-
-100 Ton Kobelco Crawler
-
-7100 1996yr 16072 hrs 45m boom
-
 100t, 65t, 35t ball hook attached
-
-(note: 100 Ton hook is not original hook-belongs to some other crane)
-
-Excellent working condition
-
-Used and located in Japan
-
-
-
