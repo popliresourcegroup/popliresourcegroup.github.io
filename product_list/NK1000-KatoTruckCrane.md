@@ -2,9 +2,12 @@
 category: Mobile Cranes
 productname: NK1000-Kato Truck Crane
 layout: product
-thumbnail: "/uploads/95_preview.jpg"
+thumbnail: "/uploads/001.jpg"
 detailpictures:
-- "/uploads/95_preview.jpg"
+- "/uploads/002.jpg"
+- "/uploads/004.jpg"
+- "/uploads/003-1.jpg"
+- "/uploads/001.jpg"
 sold: true
 model: NK1000
 year: "1991"
