@@ -2,9 +2,11 @@
 category: Mobile Cranes
 productname: NK1600V-Kato 160 Ton Truck Crane
 layout: product
-thumbnail: "/uploads/96_preview.jpg"
+thumbnail: "/uploads/img_7003.jpg"
 detailpictures:
-- "/uploads/96_preview.jpg"
+- "/uploads/img_7006.jpg"
+- "/uploads/img_7004.jpg"
+- "/uploads/img_7005.jpg"
 sold: true
 serial_no: "832124"
 year: "1993"
