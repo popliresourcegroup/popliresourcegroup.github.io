@@ -2,23 +2,15 @@
 category: Mobile Cranes
 productname: RK160-6 -2010y--Kobelco
 layout: product
-thumbnail: "/uploads/127_preview.jpg"
+thumbnail: "/uploads/142_43502_1.jpg"
 detailpictures:
-- "/uploads/127_preview.jpg"
-sold: false
+- "/uploads/142_43502_1.jpg"
+- "/uploads/142_43502_70.jpg"
+sold: true
+year: "2010"
+hours: '16,110'
+serial_no: FW5107
+model: RK160-6
+
 ---
-
-16 Ton Kobelco/Tadano RT
-
-RK160-6&nbsp;
-
-2010yr, S.N. FW5107 (EW06-07009)&nbsp;
-
-70944 kms , 16110&nbsp;hrs.
-
-16t,&nbsp;Ball Hook
-
-Monitor: sometimes shows CPU Alert
-
-
-
+16t, Ball Hook
