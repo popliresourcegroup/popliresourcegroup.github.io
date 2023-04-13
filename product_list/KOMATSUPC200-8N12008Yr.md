@@ -14,19 +14,9 @@ detailpictures:
 - "/uploads/16569908779073.JPG"
 - "/uploads/16569908779382.JPG"
 sold: false
+year: "2008"
+hours: '9,557'
+model: PC200-8N1
+
 ---
-
-KOMATSU EXCAVATOR 
-
-
-
-Model: PC200-8N1
-
-Year: 2008
-
-Hours: 9,557 
-
 STD ARM, ARM CRANE, STEEL SHOE, A/C, CAB, STD BOOM, EPA.
-
-
-
