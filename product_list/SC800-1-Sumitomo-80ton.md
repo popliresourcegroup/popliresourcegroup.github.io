@@ -12,15 +12,12 @@ detailpictures:
 - "/uploads/16485425739732.jpg"
 - "/uploads/38_preview.jpg"
 sold: false
+year: "1993"
+hours: "-"
+serial_no: SC080-0027
+model: SC800-1
+
 ---
+80 Ton Sumitomo Crawler Crane
 
-80&nbsp;Ton&nbsp;Sumitomo&nbsp;Crawler Crane
-
-SC800-1,&nbsp;&nbsp;1993yr,&nbsp;S.N. SC080-0027
-
-58m boom&nbsp;+ &nbsp;80t, 30t, 15t, ball Hooks attached
-
-Used and located in Japan/Good working condition
-
-
-
+58m boom +  80t, 30t, 15t, ball Hooks attached
