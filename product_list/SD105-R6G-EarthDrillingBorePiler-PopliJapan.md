@@ -10,18 +10,15 @@ detailpictures:
 - "/uploads/16485217827552324322106.jpg"
 - "/uploads/16485217829952324322109.jpg"
 - "/uploads/29_preview.jpg"
-sold: false
+sold: true
+year: "1988"
+hours: "-"
+serial_no: SD105-0020
+model: SD105
+
 ---
+Soilmac R-6G Type
 
-Sumitomo-Soilmac-R-6G Earth Drilling/ Bore Piling Machine-&nbsp;Soilmac R-6G Type
+max boring Día : about 1.5 meters, Crane lifting capacity : about 10 tons
 
-1988y,&nbsp;Sn. SD105-0020
-
-max boring&nbsp;Día&nbsp;: about 1.5 meters, Crane lifting capacity : about 10 tons
-
-One Kelly bar attached&nbsp;
-
-Specs:&nbsp;http://www.yoshidakenkou.com/sd105katarogu.pdf
-
-
-
+One Kelly bar attached 
