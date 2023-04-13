@@ -13,20 +13,11 @@ detailpictures:
 - "/uploads/1663214452747991.jpg"
 - "/uploads/1663214452837001.jpg"
 - "/uploads/1663214452933002.jpg"
-sold: false
+sold: true
+year: "1991"
+hours: "-"
+serial_no: HC118-1071
+model: HC118RM
+
 ---
-
-50 Ton Sumitomo Mechanical TC
-
-HC118RM
-
-SN. HC118-1071
-
-1991yr
-
 21m boom + 50t, Ball Hooks
-
-Working condition/used and located in Japan
-
-
-
