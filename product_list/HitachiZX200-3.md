@@ -2,7 +2,7 @@
 category: Excavators
 productname: Hitachi ZX200-3
 layout: product
-thumbnail: ''
+thumbnail: "/uploads/screenshot-2023-04-13-at-18-31-49.png"
 detailpictures:
 - "/uploads/122_35246_30.jpg"
 - "/uploads/133_39375_1.jpg"
