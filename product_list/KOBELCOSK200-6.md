@@ -10,22 +10,11 @@ detailpictures:
 - "/uploads/1663218301603001.jpg"
 - "/uploads/1663218301610004.jpg"
 - "/uploads/1663218301788005.jpg"
-sold: false
+sold: true
+year: "2000"
+hours: '4,320'
+serial_no: "30975"
+model: SK200-6
+
 ---
-
-KOBELCO EXCAVATOR 
-
-Model: SK200-6
-
-Serial: 30975
-
-Year: 2000
-
-Hours: 4,320
-
-Good working condition.
-
 800G, A/C, COM-PIPING. MULTi
-
-
-
