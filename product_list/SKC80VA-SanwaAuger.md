@@ -9,13 +9,12 @@ detailpictures:
 - "/uploads/164852020298080(1).jpg"
 - "/uploads/26_preview.jpg"
 sold: false
+year: "-"
+hours: "-"
+serial_no: "-"
+model: SKC80VA
+
 ---
-
-Used Sanwa Auger Drilling Machine
-
-SKC80VA-Electric Type-with Power Unit 
+SKC80VA-Electric Type-with Power Unit
 
 (Remote and cables not attached)
-
-
-
