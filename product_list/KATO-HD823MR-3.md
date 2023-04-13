@@ -2,23 +2,19 @@
 category: Excavators
 productname: KATO- HD823MR-3
 layout: product
-thumbnail: "/uploads/84_preview.jpg"
+thumbnail: "/uploads/hd823mr-5320-001.jpg"
 detailpictures:
-- "/uploads/84_preview.jpg"
-sold: false
+- "/uploads/hd823mr-5320-002.jpg"
+- "/uploads/hd823mr-5320-040.jpg"
+- "/uploads/hd823mr-5320-003.jpg"
+- "/uploads/hd823mr-5320-001.jpg"
+- "/uploads/hd823mr-5320-004.jpg"
+- "/uploads/hd823mr-5320-037.jpg"
+sold: true
+year: "2002"
+hours: "7775"
+serial_no: "5638"
+model: HD823MR-3
+
 ---
-
-KATO EXCAVATOR&nbsp;
-
-Model:&nbsp;HD823MR-3
-
-Serial:&nbsp;5638
-
-Hours:&nbsp;7,775
-
 600G, BKT, PIPING, A/C
-
-Working condition/ Used and located in Japan
-
-
-
