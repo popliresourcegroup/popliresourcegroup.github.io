@@ -2,7 +2,7 @@
 category: Piling Equipment
 productname: DHP-80-(91Y) Nissha Piling Rig
 layout: product
-thumbnail: ''
+thumbnail: "/uploads/dscn1902.JPG"
 detailpictures:
 - "/uploads/4.jpg"
 - "/uploads/1-6.jpg"
