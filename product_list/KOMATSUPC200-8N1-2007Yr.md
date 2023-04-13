@@ -11,20 +11,11 @@ detailpictures:
 - "/uploads/1663218630587PC200-8N1_310010_05.JPG"
 - "/uploads/1663218630750PC200-8N1_310010_01.JPG"
 - "/uploads/1663218630823PC200-8N1_310010_04.JPG"
-sold: false
+sold: true
+year: "2007"
+hours: '19,356'
+serial_no: "310010"
+model: PC200-8N1
+
 ---
-
-KOMATSU EXCAVATOR&nbsp;
-
-Model: PC200-8N1
-
-Serial: 310010
-
-Year: 2007
-
-Hours: 19,356
-
 STD ARM, ARM CRANE, STEEL SHOE, A/C, CAB, STD BOOM.
-
-
-
