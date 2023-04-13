@@ -2,23 +2,16 @@
 category: Excavators
 productname: Komatsu HB205-2
 layout: product
-thumbnail: "/uploads/83_preview.jpg"
+thumbnail: "/uploads/116_34048_1.jpg"
 detailpictures:
-- "/uploads/83_preview.jpg"
-sold: false
+- "/uploads/116_34048_3.jpg"
+- "/uploads/116_34048_2.jpg"
+- "/uploads/116_34048_1.jpg"
+sold: true
+year: "2015"
+hours: '8,056'
+serial_no: "50568"
+model: HB205-2
+
 ---
-
-Komatsu HB205-2
-
-Serial:&nbsp;50568
-
-Year:&nbsp;2015
-
-Hours:&nbsp;8,056&nbsp;
-
 600G, ROPS CAB, BKT, A/C, MASTER KEY, IC KEY
-
-Working condition/ Used and located in Japan
-
-
-
