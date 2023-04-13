@@ -12,17 +12,10 @@ detailpictures:
 - "/uploads/1648542438571123.jpg"
 - "/uploads/37_preview.jpg"
 sold: false
+year: "1993"
+hours: '6,908'
+serial_no: "2870"
+model: CCH800
+
 ---
-
-80&nbsp;Ton&nbsp;IHI&nbsp;Crawler Crane-Full Spec Unit
-
-CCH800
-
-1993yr,&nbsp;S.N. 2870 ,&nbsp; 6908&nbsp;hrs,&nbsp;
-
-58m boom, &nbsp;22m Fly Jib, 34m Luffing Jib,&nbsp;50t, 30t, ball hooks attached (main hook not attached)
-
-Used and located in Japan/Good working condition
-
-
-
+58m boom,  22m Fly Jib, 34m Luffing Jib, 50t, 30t, ball hooks attached (main hook not attached)
