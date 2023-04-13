@@ -18,4 +18,4 @@ model: KH125-3
 ---
 22m boom+ Main hook + Ball Hook attached
 
-Earth Drill Rotator+ 52m Kelly Bar Attached. 
+Earth Drill Rotator+ 52m Kelly Bar Attached. 
