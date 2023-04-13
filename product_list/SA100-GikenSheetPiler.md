@@ -14,19 +14,12 @@ detailpictures:
 - "/uploads/16519378768181 (1).jpg"
 - "/uploads/66_preview.jpg"
 sold: false
----
+year: "1996"
+hours: "1227"
+serial_no: SA100073
+model: SA100
 
+---
 SA100
 
-1996yr, S.N. SA100073, 1227 hrs, 
-
-Power Unit with tracks attached
-
-remote controller attached
-
-RECENTLY OVERHAULED UNIT-READY TO GO TO JOBSITE
-
-working condition/ used and located in Japan.
-
-
-
+Recently overhauled, unit is ready to go to the job site.
