@@ -16,10 +16,4 @@ model: RK250-7
 hours: '19,715'
 
 ---
-RK250-7
-
-2008yr,&nbsp;&nbsp;S.N. EE02-10033, &nbsp;94712 kms , 19715 hrs.
-
 H Type Outrigger/ Auto Jib/ 25t/ ball hooks
-
-Used and located in Japan/Good working condition
