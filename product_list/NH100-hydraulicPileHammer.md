@@ -2,13 +2,21 @@
 category: Piling Equipment
 productname: NH100-hydraulic Pile Hammer
 layout: product
-thumbnail: "/uploads/77_preview.jpg"
+thumbnail: "/uploads/20210720_164538.jpg"
 detailpictures:
-- "/uploads/77_preview.jpg"
-sold: false
+- "/uploads/20210720_164442.jpg"
+- "/uploads/20210720_163200.jpg"
+- "/uploads/20210720_164607.jpg"
+- "/uploads/20210720_163215.jpg"
+- "/uploads/20210720_164549.jpg"
+- "/uploads/20210720_164538.jpg"
+sold: true
+year: 1987, 1992
+hours: "-"
+serial_no: "11663"
+model: NH100
+
 ---
+22 tons max ram stroke: 1.44m, max blow energy: 141KN.m,
 
-10 ton Ram capacity nippon sharyo hydraulic hammer with hydraulic power pack.Model: NH100,&nbsp;&nbsp;1992yPower Pack: NH160 , YOM: 1987, S.N. 11663&nbsp;Ram capacity: 10ton, total weight of the hammer: 22 tons max ram stroke: 1.44m, max blow energy: 141KN.m,
-
-&nbsp;Applicable concrete pile: max 700mm, Applicable Steel Pile: max 1500mm
-
+Applicable concrete pile: max 700mm, Applicable Steel Pile: max 1500mm
