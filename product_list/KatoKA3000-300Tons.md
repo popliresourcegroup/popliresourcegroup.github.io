@@ -2,23 +2,20 @@
 category: Mobile Cranes
 productname: Kato KA3000 - 300 Tons
 layout: product
-thumbnail: "/uploads/105_preview.jpg"
+thumbnail: "/uploads/20200217-2.jpg"
 detailpictures:
-- "/uploads/105_preview.jpg"
-sold: false
+- "/uploads/20200217-6.jpg"
+- "/uploads/20200217-7.jpg"
+- "/uploads/20200217-2.jpg"
+- "/uploads/20200217-42.jpg"
+- "/uploads/20200217-3.jpg"
+- "/uploads/20200217-4.jpg"
+- "/uploads/20200217-9.jpg"
+sold: true
+year: "2002"
+hours: '7,229'
+serial_no: "9510054"
+model: KA-3000
+
 ---
-
-KATO / KA-3000&nbsp;
-
-2002yr&nbsp;SN. 9510054&nbsp;
-
-Chassis 81,671km / &nbsp;7,229hr
-
-Crane hours 2167&nbsp;
-
 Full spec unit
-
-Used and located in Japan/good working condition
-
-
-
