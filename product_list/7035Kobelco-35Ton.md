@@ -2,7 +2,7 @@
 category: Crawler Cranes
 productname: 7035 Kobelco - 35 Ton
 layout: product
-thumbnail: "/uploads/71_preview.jpg"
+thumbnail: "/uploads/screenshot-2023-04-13-at-17-31-39.png"
 detailpictures:
 - "/uploads/16520320281327035-GL-00252 (2).jpg"
 - "/uploads/16520320282137035-GL-00252 (6).jpg"
@@ -13,18 +13,13 @@ detailpictures:
 - "/uploads/16520320284807035-GL-00252 (1).jpg"
 - "/uploads/16520320286997035-GL-00252 (8).jpg"
 - "/uploads/71_preview.jpg"
-sold: false
+sold: true
+year: "1994"
+hours: "-"
+serial_no: GL-00252
+model: "7035"
+
 ---
-
-Kobelco 35 Ton Crawler Crane
-
-7035, S/No.: GL-00252, Hour: Unknown, Year: 1994
-
 15M Boom, 35ton hook + swivel hook
 
 Note: 35t hook is not original/top sheave not attached/
-
-Catch Fork attached to the bottom boom in pictures will not be included.
-
-
-
