@@ -16,8 +16,11 @@ detailpictures:
 - "/uploads/1651937759960.jpg"
 - "/uploads/1651937759965.jpg"
 - "/uploads/65_preview.jpg"
-sold: false
+sold: true
+year: "2001"
+hours: '7,794'
+serial_no: " R45U-011010"
+model: SR45
+
 ---
-
-Tomec vibro hammer with hydraulic power unitSR-451999 yr,&nbsp;S.N. vibro : R45-01087S.N. power unit R45U-011010,&nbsp;7,794hrUsed and located in Japan/working condition
-
+Tomec vibro hammer with hydraulic power unit.
