@@ -2,10 +2,13 @@
 category: Piling Equipment
 productname: SD510-95yr model-Bore piler/Earth Drill
 layout: product
-thumbnail: "/uploads/100_preview.jpg"
-detailpictures:
-- "/uploads/100_preview.jpg"
+thumbnail: "/uploads/screenshot-2023-04-13-at-11-02-39.png"
+detailpictures: []
 sold: true
+year: "1995"
+hours: "-"
+serial_no: SD510-0030 
+model: SD510
 
 ---
 Sumitomo-Soilmac- Bore Piling/Earth Drilling Machine.
