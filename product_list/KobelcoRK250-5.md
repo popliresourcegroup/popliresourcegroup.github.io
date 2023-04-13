@@ -2,23 +2,17 @@
 category: Mobile Cranes
 productname: Kobelco RK250-5
 layout: product
-thumbnail: "/uploads/85_preview.jpg"
+thumbnail: "/uploads/001-2.jpg"
 detailpictures:
-- "/uploads/85_preview.jpg"
-sold: false
+- "/uploads/002-3.jpg"
+- "/uploads/001-2.jpg"
+- "/uploads/003-3.jpg"
+- "/uploads/004-3.jpg"
+sold: true
+year: "1997"
+hours: '16,011'
+serial_no: '07031'
+model: RK250-5
+
 ---
-
-Kobelco 25 Ton Rough Terrain&nbsp;
-
-RK250-5
-
-1997yr, S.N. EZ 07031, 76794 kms, 16011 Hrs&nbsp;
-
 25t, 12t, Ball Hooks Attached
-
-Working condition/ used and located in Japan
-
-Price: JPY 4.6 Million, +tax, Ex Yokohama
-
-
-
