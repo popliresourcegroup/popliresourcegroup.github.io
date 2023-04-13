@@ -2,9 +2,14 @@
 category: Piling Equipment
 productname: SD407-Sumitomo-Bore Piling /Drilling Machine
 layout: product
-thumbnail: "/uploads/99_preview.jpg"
+thumbnail: "/uploads/img_7309.jpg"
 detailpictures:
-- "/uploads/99_preview.jpg"
+- "/uploads/img_7313.jpg"
+- "/uploads/img_7329.jpg"
+- "/uploads/img_7311.jpg"
+- "/uploads/img_7312.jpg"
+- "/uploads/img_7310.jpg"
+- "/uploads/img_7309.jpg"
 sold: true
 year: "1995"
 hours: "-"
