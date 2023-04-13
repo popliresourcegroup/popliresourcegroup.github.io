@@ -13,6 +13,4 @@ model: TG3600M-1
 
 ---
 360 Ton Tadano Truck Crane  
-TG 3600M-1 1991yr S.N.450110
-
 Main boom: 51m + Auto Fly Jib + Luffing Jib Attached
