@@ -2,9 +2,8 @@
 category: Crawler Cranes
 productname: CCH900 (2008yr) IHI 90 Ton
 layout: product
-thumbnail: "/uploads/120_preview.jpg"
+thumbnail: "/uploads/screenshot-2023-04-13-at-18-12-59.png"
 detailpictures:
-- "/uploads/120_preview.jpg"
 - "/uploads/1663214282254003.jpg"
 - "/uploads/1663214282351004.jpg"
 - "/uploads/1663214282427008.jpg"
@@ -13,23 +12,10 @@ detailpictures:
 - "/uploads/1663214282696001.jpg"
 - "/uploads/1663214282817002.jpg"
 sold: false
+year: "2008"
+hours: '16,304'
+serial_no: HJ-2
+model: CCH900
+
 ---
-
-90 Ton IHI Crawler
-
-Model CCH900
-
-2008yr, SN. HJ-2
-
-16304 hrs.
-
 48m boom+ 50Ton + Swivel Hook (main hook not attached).
-
-Working condition/ Used and located in Japan
-
-
-
-
-
-
-
