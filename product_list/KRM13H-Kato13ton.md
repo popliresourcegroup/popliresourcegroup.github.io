@@ -2,11 +2,21 @@
 category: Mobile Cranes
 productname: KRM13H-Kato 13ton
 layout: product
-thumbnail: "/uploads/133_preview.jpg"
+thumbnail: "/uploads/002-1.jpg"
 detailpictures:
-- "/uploads/133_preview.jpg"
-sold: false
+- "/uploads/005-1.jpg"
+- "/uploads/007.jpg"
+- "/uploads/006-1.jpg"
+- "/uploads/002-1.jpg"
+- "/uploads/003-1.jpg"
+- "/uploads/004-1.jpg"
+- "/uploads/008.jpg"
+- "/uploads/009.jpg"
+sold: true
+year: "2005"
+hours: '14,195'
+serial_no: "-"
+model: KRM13H
+
 ---
-
-13 Ton Kato City CraneKRM13H (H Type-Power jib )2005y14195  hrs104266 kms13t , Ball Hook attached.
-
+13t , Ball Hook attached.
