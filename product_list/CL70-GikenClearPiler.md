@@ -9,18 +9,11 @@ detailpictures:
 - "/uploads/16519355759221.jpg"
 - "/uploads/16519355759385.jpg"
 - "/uploads/62_preview.jpg"
-sold: false
+sold: true
+year: "1992"
+hours: "-"
+serial_no: CL700003
+model: CL70
+
 ---
-
-Giken Clear Piler
-
-CL70
-
-SN. CL700003
-
-1992yr, Power unit attached/ wired remote controller attached
-
-Working condition, Little oil leak from rear clamp
-
-
-
+Power unit attached/ wired remote controller attached
