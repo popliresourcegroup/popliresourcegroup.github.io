@@ -11,19 +11,10 @@ detailpictures:
 - "/uploads/16632146544041 (5).jpg"
 - "/uploads/16632146546221 (1).jpg"
 sold: false
+year: "2000"
+hours: "-"
+serial_no: GD02-01024
+model: FS-80
+
 ---
-
-Heavy Duty Kobelco 80 Ton Crawler
-
-Model FS-80
-
-2000yr, SN. GD02-01024
-
 48m boom+ Main Hook+ Middle, Ball.
-
-Working condition/ Used and located in Japan
-
-Little rust on body.
-
-
-
