@@ -2,25 +2,18 @@
 category: Crawler Cranes
 productname: KH150-3 (1990yr) 40t Hitachi
 layout: product
-thumbnail: "/uploads/125_preview.jpg"
+thumbnail: "/uploads/img_2779.jpg"
 detailpictures:
-- "/uploads/125_preview.jpg"
-sold: false
+- "/uploads/img_5819.JPG"
+- "/uploads/dscn1902.JPG"
+- "/uploads/img_2780.jpg"
+- "/uploads/img_2781.jpg"
+- "/uploads/img_2779.jpg"
+sold: true
+year: "1990"
+hours: '14,843'
+serial_no: 232-1001
+model: KH150-3
+
 ---
-
-40 Ton Hitachi Crawler
-
-Model: KH150-3
-
-Year: 1990
-
-SN. 232-1001
-
-14843 hrs
-
 Boom 19m + Main Hook
-
-Working condition/ Used and located in Japan
-
-
-
