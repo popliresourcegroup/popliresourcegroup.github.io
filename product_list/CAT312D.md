@@ -14,7 +14,6 @@ year: "2008"
 hours: '7,062'
 serial_no: '00691'
 model: CAT 312D
-published: false
 
 ---
 _Boom STD,  boom Arm STD._ 
