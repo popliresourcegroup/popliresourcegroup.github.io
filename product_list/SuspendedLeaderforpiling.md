@@ -10,17 +10,10 @@ detailpictures:
 - "/uploads/164854289880605.jpg"
 - "/uploads/40_preview.jpg"
 sold: false
+year: "-"
+hours: "-"
+serial_no: "-"
+model: "-"
+
 ---
-
 Suspended leader for piling job
-
-Length: approx. 16.5m
-
-Outer Diameter: 570mm
-
-Guide Pitch: 330m pitch
-
-Used and located in Japan,
-
-
-
