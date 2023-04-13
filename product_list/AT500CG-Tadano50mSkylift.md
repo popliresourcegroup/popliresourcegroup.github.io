@@ -18,4 +18,4 @@ serial_no: "-"
 
 ---
 50 Meter Tadano Skylift  
-Chassis: Nissan
+Chassis: Nissan 
