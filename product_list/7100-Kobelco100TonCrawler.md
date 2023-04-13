@@ -2,7 +2,7 @@
 category: Crawler Cranes
 productname: 7100 - Kobelco 100 Ton Crawler
 layout: product
-thumbnail: ''
+thumbnail: "/uploads/screenshot-2023-04-13-at-17-30-53.png"
 detailpictures:
 - "/uploads/1651938540361041.jpg"
 - "/uploads/1651938540505009.jpg"
