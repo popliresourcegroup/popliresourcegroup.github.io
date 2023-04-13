@@ -10,24 +10,13 @@ detailpictures:
 - "/uploads/1663217489471PHOTO-2022-06-23-18-42-25 12.jpg"
 - "/uploads/1663217489666PHOTO-2022-06-23-18-42-25 2.jpg"
 - "/uploads/1663217489831PHOTO-2022-06-23-18-42-25 3.jpg"
-sold: false
+sold: true
+year: "2006"
+hours: "7999"
+serial_no: "305654"
+model: PC200-8N1
+
 ---
-
-KOMATSU PC200-8
-
-Serial: 305654
-
-Year: 2006
-
-Hours: 7999
-
 2 WAY BREAKER PIPING/600G/CAB/.
 
-Used in japan, working condition.
-
-Rusty, but&nbsp;good working condition.
-
 Right cabin window broken, dent in body.
-
-
-
