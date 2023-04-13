@@ -14,7 +14,7 @@ sold: true
 serial_no: "316529"
 hours: '14,630'
 model: PC200-8N1
-year: "2009"
+year: '2009 '
 
 ---
 With bucket, 600G, PIP,A/C, EPA.
