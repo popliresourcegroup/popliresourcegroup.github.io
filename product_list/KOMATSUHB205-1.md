@@ -11,22 +11,11 @@ detailpictures:
 - "/uploads/1656989067555003.jpg"
 - "/uploads/1656989067576004.jpg"
 - "/uploads/1656989067624002.jpg"
-sold: false
+sold: true
+year: "2012"
+hours: '15,405'
+model: HB205-1
+
 ---
 
-KOMATSU EXCAVATOR&nbsp;
-
-Model:&nbsp;HB205-1
-
-Year:&nbsp;2012
-
-Hours:&nbsp;15,405
-
 600G,ROPS,CAB,Bucket
-
-Good working condition.&nbsp;
-
-Used and located in Japan.
-
-
-
