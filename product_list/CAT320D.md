@@ -2,12 +2,12 @@
 category: Excavators
 layout: product
 productname: CAT 320D
-thumbnail: "/uploads/___vga_file02-1.JPG"
+thumbnail: "/uploads/4.JPG"
 detailpictures:
-- "/uploads/___vga_file02-1.JPG"
-- "/uploads/___vga_file04-1.JPG"
-- "/uploads/___vga_file03-1.JPG"
-- "/uploads/___vga_file05-1.JPG"
+- "/uploads/4.JPG"
+- "/uploads/3.JPG"
+- "/uploads/2.JPG"
+- "/uploads/1.JPG"
 sold: false
 year: "2010"
 hours: '10,613'
