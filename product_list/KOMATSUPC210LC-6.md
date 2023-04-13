@@ -12,19 +12,10 @@ detailpictures:
 - "/uploads/166321759495604RIMG0906.jpg"
 - "/uploads/1663217594978Screen Shot 2022-07-28 at 13.49.30.png"
 sold: false
+year: "1994"
+hours: 10,702 (meter stopped)
+serial_no: "30378"
+model: PC210LC-6
+
 ---
-
-KOMATSU EXCAVATOR&nbsp;
-
-Model:&nbsp;PC210LC-6
-
-Serial: 30378
-
-Year:&nbsp;1994
-
-Hours:&nbsp;10,702 (meter stopped)
-
-Working condition. 600 Flat, Elavator CAB, Long boom, Extra slide arm, Slope BKT.
-
-
-
+600 Flat, Elavator CAB, Long boom, Extra slide arm, Slope BKT.
