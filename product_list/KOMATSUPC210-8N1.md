@@ -17,14 +17,4 @@ serial_no: "311691"
 model: PC210-8N1
 
 ---
-KOMATSU EXCAVATOR&nbsp;
-
-Model:&nbsp;PC210-8N1
-
-Serial: 311691
-
-Year:&nbsp;2007
-
-Hours:&nbsp;8,929
-
-BK, 600G, &nbsp;BREAKER PIPING LINE/ A/C, EPA, TIER 3.
+BK, 600G,  BREAKER PIPING LINE/ A/C, EPA, TIER 3.
