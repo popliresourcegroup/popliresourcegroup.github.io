@@ -9,7 +9,7 @@ detailpictures:
 - "/uploads/15422.jpg"
 - "/uploads/15426.jpg"
 - "/uploads/15425.jpg"
-sold: false
+sold: true
 year: "1994"
 hours: "-"
 serial_no: A1021
