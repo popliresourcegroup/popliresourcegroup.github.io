@@ -20,6 +20,4 @@ model: KRM25H
 ---
 25 Ton Kato Rough Terrain Crane
 
-KRM25H,  2004yr,  S.N. 0611058,  109630 kms , 19582 hrs.
-
 H Type Outrigger/ Auto Jib/ 25t/ ball hooks
