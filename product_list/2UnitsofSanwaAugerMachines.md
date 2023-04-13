@@ -12,19 +12,12 @@ detailpictures:
 - "/uploads/16485206847904.jpg"
 - "/uploads/27_preview.jpg"
 sold: false
+year: "-"
+hours: "-"
+serial_no: "-"
+model: 2 UNITS SKC80VW, SKC80
+
 ---
-
-2 Units of Sanwa Auger Drilling Machines
-
-SKC80VW-hydrualic Type (Modified from Electric type to hydraulic type)
-
-SKC80-Hydraulic Type (Modified from Electric type to hydraulic type)
-
 Video 1 : https://photos.app.goo.gl/EfhGfCHro9sQCSgh8
 
 Video 2; https://photos.app.goo.gl/wPCsCqHhR5UYgY4f9
-
- 
-
-
-
