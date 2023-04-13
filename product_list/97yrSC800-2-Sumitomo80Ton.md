@@ -1,6 +1,6 @@
 ---
 category: Crawler Cranes
-productname: (97yr) SC800-2 - Sumitomo 80Ton
+productname: "(97yr) SC800-2 - Sumitomo 80Ton"
 layout: product
 thumbnail: "/uploads/21_preview.jpg"
 detailpictures:
@@ -16,19 +16,10 @@ detailpictures:
 - "/uploads/16485173528576.JPG"
 - "/uploads/21_preview.jpg"
 sold: false
+year: "1997"
+hours: "3024"
+serial_no: SC080-1109
+model: SC800-2
+
 ---
-
-80&nbsp;Ton&nbsp;Sumitomo&nbsp;Crawler Crane
-
-SC800-2
-
-1997yr,&nbsp;S.N. SC080-1109 ,&nbsp; 3024&nbsp;hrs,&nbsp;
-
-48m boom, &nbsp;22m Fly Jib, 34m Luffing Jib,&nbsp;50t, 15t and Ball hooks attached (main hook not attached)
-
-Used and located in Japan/Good working condition
-
-Video&nbsp;https://photos.app.goo.gl/jkyydDaRs6di3UpU9
-
-
-
+48m boom,  22m Fly Jib, 34m Luffing Jib, 50t, 15t and Ball hooks attached (main hook not attached)
