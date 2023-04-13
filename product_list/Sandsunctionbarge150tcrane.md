@@ -2,21 +2,21 @@
 category: Ships/Barges
 productname: Sand sunction barge+150t crane
 layout: product
-thumbnail: "/uploads/42_preview.jpg"
+thumbnail: "/uploads/1.jpg"
 detailpictures:
-- "/uploads/42_preview.jpg"
-sold: false
+- "/uploads/1.jpg"
+- "/uploads/2.jpg"
+- "/uploads/5.jpg"
+- "/uploads/7.jpg"
+- "/uploads/8.jpg"
+- "/uploads/6.jpg"
+sold: true
+year: "-"
+hours: "-"
+serial_no: SKK-500GDA
+model: 150Ton Barge-SKK-500GDA
+
 ---
-
-150- ton barge crane SKK-500GDA
-
-2500 ton san suction pump box
-
 barge Size : 59m x 16m x 5m
 
 Tug boat of 1000ps attached.
-
-Used and located in Japan/working condition
-
-
-
