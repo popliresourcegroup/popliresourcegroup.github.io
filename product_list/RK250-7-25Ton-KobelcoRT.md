@@ -2,7 +2,7 @@
 category: Mobile Cranes
 productname: RK250-7 - 25Ton - Kobelco RT
 layout: product
-thumbnail: ''
+thumbnail: "/uploads/screenshot-2023-04-13-at-11-53-56.png"
 detailpictures:
 - "/uploads/1651774911359004.jpg"
 - "/uploads/1651774911663002.jpg"
