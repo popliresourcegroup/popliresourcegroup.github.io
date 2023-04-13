@@ -14,19 +14,9 @@ detailpictures:
 - "/uploads/1656990305785003.jpg"
 - "/uploads/1656990305891024.jpg"
 sold: false
+year: "2007"
+hours: '11,573'
+model: PC200LC-8
+
 ---
-
-KOMATSU EXCAVATOR 
-
-Model: PC200LC-8
-
-Year: 2007
-
-Hours: 11,573
-
 700G, A/C, W/SKELETON BUCKET, EPA.
-
-Good working condition, little dent on left cover.
-
-
-
