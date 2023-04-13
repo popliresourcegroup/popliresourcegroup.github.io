@@ -9,16 +9,11 @@ detailpictures:
 - "/uploads/1651771394564116_34431_5.jpg"
 - "/uploads/1651771394768116_34431_2.jpg"
 - "/uploads/47_preview.jpg"
-sold: false
+sold: true
+year: "1992"
+hours: '37,919'
+serial_no: EZ05090
+model: RK250-3
+
 ---
-
-RK250-3-Panther  
-
-1992y, S.N.EZ05090, 119592 kms, 37919 hrs.
-
 X type, P/Jib, 25t, Ball Hooks.
-
- Working condition/Used and located in Japan
-
-
-
