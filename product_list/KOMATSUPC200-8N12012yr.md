@@ -11,20 +11,11 @@ detailpictures:
 - "/uploads/165698937095610799_5_20220623093403_P6220008-0.jpg"
 - "/uploads/165698937098510799_12_20220623093404_P6220011.jpg"
 - "/uploads/165698937099810799_30_20220623093405_P6220034.jpg"
-sold: false
+sold: true
+year: "2012"
+hours: '17,974'
+serial_no: "353455"
+model: PC200-8N1
+
 ---
-
-KOMATSU EXCAVATOR&nbsp;
-
-Model:&nbsp;PC200-8N1
-
-Year:&nbsp;2012
-
-Hours:&nbsp;17,974
-
-800G, A/C, &nbsp;BUCKET
-
-Good working condition, little dent on left cover.
-
-
-
+800G, A/C,  BUCKET
