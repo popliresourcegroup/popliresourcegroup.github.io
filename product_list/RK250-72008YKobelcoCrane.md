@@ -17,13 +17,10 @@ detailpictures:
 - "/uploads/1663217052368004.jpg"
 - "/uploads/1663217052636003.jpg"
 sold: false
+year: "2008"
+hours: '27,844'
+serial_no: EE02-10013
+model: RK250-7
+
 ---
-
-RK250-7,  2008yr,  S.N. EE02-10013,  103510 kms , 27844 hrs.
-
 H Type Outrigger/ Auto Jib/ 25t/ ball hooks
-
-Used and located in Japan/Good working condition
-
-
-
