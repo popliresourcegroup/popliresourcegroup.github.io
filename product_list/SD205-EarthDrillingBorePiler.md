@@ -15,22 +15,14 @@ detailpictures:
 - "/uploads/164852095198120782.jpg"
 - "/uploads/164852095199920785.jpg"
 - "/uploads/28_preview.jpg"
-sold: false
----
+sold: true
+year: "1989"
+serial_no: SD205-0064
+model: SD205
 
+---
 Sumitomo Earth Drilling / Bore Piling Machine
 
-
-
-1989y,&nbsp;Sn. SD205-0064
-
-12.6 meter x 4 Stages Kelly bar attached.
-
-1 piece of drilling bucket &nbsp;attached
+12\.6 meter x 4 Stages Kelly bar attached.
 
 Used and located in Japan
-
-
-
-
-
