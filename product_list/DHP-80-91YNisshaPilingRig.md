@@ -2,20 +2,17 @@
 category: Piling Equipment
 productname: DHP-80-(91Y) Nissha Piling Rig
 layout: product
-thumbnail: "/uploads/92_preview.jpg"
+thumbnail: ''
 detailpictures:
-- "/uploads/92_preview.jpg"
+- "/uploads/4.jpg"
+- "/uploads/1-6.jpg"
+- "/uploads/11111.jpg"
+- "/uploads/3-1.jpg"
 sold: true
+year: "1991"
+hours: '7,308'
+serial_no: B81702
+model: DHP80
 
 ---
-Nippon Sharyo Earth Drill
-
-
-
-Model: DHP80,&nbsp; Serial: B81702&nbsp; Year: 1991
-
 Leader: 24m, Leader Type: M60DA-2
-
-Hour: 7308
-
-Used and Located in Japan/Good working condition
