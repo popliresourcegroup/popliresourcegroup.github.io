@@ -2,21 +2,18 @@
 category: Piling Equipment
 productname: HCR1500-Casing Oscillator
 layout: product
-thumbnail: "/uploads/112_preview.jpg"
+thumbnail: "/uploads/img_8793.jpg"
 detailpictures:
-- "/uploads/112_preview.jpg"
-sold: false
+- "/uploads/img_8789.jpg"
+- "/uploads/img_8788.jpg"
+- "/uploads/img_8793.jpg"
+- "/uploads/img_8785.jpg"
+- "/uploads/img_8784.jpg"
+sold: true
+year: "1995"
+hours: "-"
+serial_no: 1500E
+model: HCR2000
+
 ---
-
-Hirabayashi Oscillator-Casing Rotator&nbsp;(Power pack common with HCR2000)
-
-Model: HCR200TPN2-1500E
-
-1995yr, S.N.9577
-
 Boring Dia: 1500mm, Rotation Tulk: High:588kn, Low: 1176kn, Tulk Numbes: High:1.7 rpm, Low: 0.8
-
-Extraction capacity: 200 tons pressing Capacity: 50tons.. weight of the machine: 25tons
-
-
-
