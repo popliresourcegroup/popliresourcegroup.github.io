@@ -17,6 +17,7 @@ sold: false
 year: "2008"
 hours: '9,557'
 model: PC200-8N1
+serial_no: "313826"
 
 ---
 STD ARM, ARM CRANE, STEEL SHOE, A/C, CAB, STD BOOM, EPA.
