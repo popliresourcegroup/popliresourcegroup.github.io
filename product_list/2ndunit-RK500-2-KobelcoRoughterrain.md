@@ -2,7 +2,7 @@
 category: Mobile Cranes
 productname: 2nd unit - RK500-2 - Kobelco Rough terrain
 layout: product
-thumbnail: "/uploads/51_preview.jpg"
+thumbnail: "/uploads/1665645945742002.jpg"
 detailpictures:
 - "/uploads/1651773444101305.JPG"
 - "/uploads/1651773444196002.JPG"
@@ -16,20 +16,11 @@ detailpictures:
 - "/uploads/1651773444755003.JPG"
 - "/uploads/1651773444881264.JPG"
 - "/uploads/51_preview.jpg"
-sold: false
+sold: true
+year: "2003"
+hours: "-"
+serial_no: 06-06013
+model: RK500-2
+
 ---
-
-51 Ton Kobelco RT
-
-RK500-2
-
-2003yr
-
-S.N. ET 06-06013
-
 81334kms, 30046 hrs
-
-Working condition/Used and located in Japan
-
-
-
