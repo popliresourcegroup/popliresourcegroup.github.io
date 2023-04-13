@@ -2,34 +2,20 @@
 category: Mobile Cranes
 productname: KR45HV - Kato 45Ton RT
 layout: product
-thumbnail: "/uploads/55_preview.jpg"
+thumbnail: "/uploads/screenshot-2023-04-13-at-12-09-49.png"
 detailpictures:
 - "/uploads/1651774518172011.jpg"
 - "/uploads/165177451822133.jpg"
 - "/uploads/165177451883044.jpg"
 - "/uploads/165177451892355.jpg"
 - "/uploads/165177451894211.jpg"
-- "/uploads/55_preview.jpg"
-sold: false
+sold: true
+year: "1991"
+hours: '29,825'
+serial_no: '051478'
+model: KR45HV
+
 ---
-
-Kato 45 Ton  Rough Terrain 
-
-Model: KR45HV,  1991yr, S.N. 051478, 106,349 kms, 29825 Hrs 
-
-CHASSIS  KR451 – 0478  E/G No. 6D22 - 187776
+Kato 45 Ton  Rough Terrain
 
 45t, 20t, Ball Hooks Attached
-
-Video: 
-
-
-
-https://photos.app.goo.gl/nyvFfDrPEdenpQQB6
-
-
-
-
-
-
-
