@@ -2,7 +2,7 @@
 category: Piling Equipment
 productname: Palsonic 20-Vibro Hammer
 layout: product
-thumbnail: "/uploads/39_preview.jpg"
+thumbnail: "/uploads/screenshot-2023-04-13-at-11-51-32.png"
 detailpictures:
 - "/uploads/16485427471331 (6).jpg"
 - "/uploads/16485427471341 (25).jpg"
@@ -15,23 +15,15 @@ detailpictures:
 - "/uploads/16485427475961 (15).jpg"
 - "/uploads/16485427479081.jpg"
 - "/uploads/16485427479381 (9).jpg"
-- "/uploads/39_preview.jpg"
-sold: false
+sold: true
+year: "1991"
+hours: "-"
+serial_no: PS2-281M
+model: PAL20
+
 ---
-
-Hydraulic Vibro Hammer
-
-Model=Palsonic-20—Maker: Kencho-Made in Japan 
-
-1991yr, S.N.PS2-281M
-
 Max Vibratory force= 245kn (25 tons)
 
 (20-60hz) ( Verticle stroke= 0—9.6mm )
 
-Hammer weight (5.5 tons ) 
-
-used and located in Japan/working condition
-
-
-
+Hammer weight (5.5 tons )
