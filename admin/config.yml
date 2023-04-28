@@ -10,12 +10,13 @@ media_folder: "uploads"
 logo_url: /uploads/favicon.png
 collections:
   - name: "product"
+    identifier_field: productname
     label: "Product" # Used in the UI
     folder: "product_list" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     format: frontmatter
     extension: md
-    slug: "{{title}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{productname}}" # Filename template, e.g., YYYY-MM-DD-title.md
     editor:
       preview: false
     fields: # The fields for each document, usually in front matter
