@@ -7,3 +7,42 @@ backend:
   base_url: https://api.netlify.com
   auth_endpoint: auth
 media_folder: "uploads"
+collections:
+  - name: "product"
+    label: "Product" # Used in the UI
+    folder: "product_list" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "product"}
+      - {label: "Product Name", name: "productname", widget: "string"}
+      - label: "Thumbnail"
+        name: "thumbnail"
+        widget: "image"
+        choose_url: true
+        media_library:
+          config:
+            multiple: false
+      - label: "Detail Pictures"
+        name: "detailpictures"
+        widget: "image"
+        choose_url: true
+        media_library:
+          config:
+            multiple: true
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+        - Crawler Cranes
+        - Mobile Cranes
+        - Piling Equipment
+        - Excavators
+        - Ships/Barges
+        - Others
+      - {label: "Sold", name: "sold", widget: "boolean"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Year", name: "year", widget: "string"}
+      - {label: "Working Hours", name: "hours", widget: "string"}
+      - {label: "Serial Number", name: "serial_no", widget: "string"}
+      - {label: "Model", name: "model", widget: "string"}
