@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway #github
+  name: github
   repo: popliresourcegroup/popliresourcegroup.github.io
   branch: master # Branch to update (optional; defaults to master)
   api_root: https://api.github.com
