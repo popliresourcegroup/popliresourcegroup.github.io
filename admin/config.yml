@@ -15,7 +15,7 @@ collections:
     create: true # Allow users to create new documents in this collection
     format: frontmatter
     extension: md
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{title}}" # Filename template, e.g., YYYY-MM-DD-title.md
     editor:
       preview: false
     fields: # The fields for each document, usually in front matter
@@ -30,11 +30,9 @@ collections:
             multiple: false
       - label: "Detail Pictures"
         name: "detailpictures"
-        widget: "image"
-        choose_url: true
-        media_library:
-          config:
-            multiple: true
+        widget: list
+        summary: '{{fields.image}}'
+        field: {name: image, label: Image, widget: image, choose_url: true}
       - label: "Category"
         name: "category"
         widget: "select"
@@ -46,8 +44,8 @@ collections:
         - Ships/Barges
         - Others
       - {label: "Sold", name: "sold", widget: "boolean"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Year", name: "year", widget: "string"}
-      - {label: "Working Hours", name: "hours", widget: "string"}
-      - {label: "Serial Number", name: "serial_no", widget: "string"}
       - {label: "Model", name: "model", widget: "string"}
+      - {label: "Working Hours", name: "hours", widget: "string"}
+      - {label: "Year", name: "year", widget: "string"}
+      - {label: "Serial Number", name: "serial_no", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
