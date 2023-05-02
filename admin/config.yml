@@ -39,7 +39,7 @@ collections:
         - Excavators
         - Ships/Barges
         - Others
-      - {label: "Sold", name: "sold", widget: "boolean"}
+      - {label: "Sold", name: "sold", widget: "boolean", default: false, required: false}
       - {label: "Model", name: "model", widget: "string"}
       - {label: "Working Hours", name: "hours", widget: "string"}
       - {label: "Year", name: "year", widget: "string"}
