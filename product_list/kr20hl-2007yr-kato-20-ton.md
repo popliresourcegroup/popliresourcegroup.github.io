@@ -3,7 +3,7 @@ layout: product
 productname: KR20HL(2007yr) Kato 20 ton
 thumbnail: /uploads/002.jpg
 category: Mobile Cranes
-sold: true
+sold: false
 model: KR20HL
 hours: 21,887
 year: "2007"
