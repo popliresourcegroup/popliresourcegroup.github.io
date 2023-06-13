@@ -5,9 +5,9 @@ thumbnail: /uploads/117_preview.jpg
 category: Excavators
 sold: true
 model: PC200-8N1
-hours: 17,974
+hours: "-"
 year: "2012"
-serial_no: "353455"
+serial_no: "-"
 detailpictures:
   - /uploads/117_preview.jpg
   - /uploads/165698937027610799_2_20220623093403_P6220005.jpg
