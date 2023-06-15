@@ -3,7 +3,7 @@ layout: product
 productname: Komatsu Excavator
 thumbnail: /uploads/ask001.jpg
 category: Excavators
-sold: false
+sold: true
 model: PC120-8
 hours: 10,119
 year: "2013"
