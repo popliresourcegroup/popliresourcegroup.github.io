@@ -3,7 +3,7 @@ layout: product
 productname: Tadano - TR350M-3
 thumbnail: /uploads/1231231006.jpg
 category: Mobile Cranes
-sold: false
+sold: true
 model: TR350M-3
 hours: "9302"
 year: "1999"
