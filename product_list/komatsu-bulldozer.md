@@ -3,7 +3,7 @@ layout: product
 productname: Komatsu Bulldozer
 thumbnail: /uploads/aasd001.jpg
 category: Others
-sold: false
+sold: true
 model: D65EX-15E0
 hours: 12,635
 year: "2008"
