@@ -3,7 +3,7 @@ layout: product
 productname: KOMATSU PC120-8
 thumbnail: /uploads/159_50333_1.jpg
 category: Excavators
-sold: false
+sold: true
 model: PC120-8
 hours: 5,368
 year: "2012"
