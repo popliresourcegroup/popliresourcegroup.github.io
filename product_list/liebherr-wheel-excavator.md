@@ -1,9 +1,9 @@
 ---
 layout: product
-productname: Liebherr - Wheel Excavator
+productname: Liebher - Wheel Excavator
 thumbnail: /uploads/a934clitronic_wlhz1006vzk055996_01.jpg
 category: Excavators
-sold: false
+sold: true
 model: A934C
 hours: 11,352
 year: "2011"
