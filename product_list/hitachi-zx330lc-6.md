@@ -3,7 +3,7 @@ layout: product
 productname: HITACHI ZX330LC-6
 thumbnail: /uploads/1d1w001.jpg
 category: Excavators
-sold: false
+sold: true
 model: ZX330LC-6
 hours: 8,590
 year: "2017"
