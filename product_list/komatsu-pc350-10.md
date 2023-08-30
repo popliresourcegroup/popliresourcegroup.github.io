@@ -16,4 +16,4 @@ detailpictures:
   - /uploads/135235.jpg
 ---
 STD boom, STD arm, Multi/ BREAKER PIPING LINE, A/C.\
-Video Link: [https://photos.app.goo.gl/dNDurS4u34iMxzgd6](https://photos.app.goo.gl/dNDurS4u34iMxzgd6 "https\://photos.app.goo.gl/dNDurS4u34iMxzgd6")
+ [https://photos.app.goo.gl/dNDurS4u34iMxzgd6](<Video available click here.>)
