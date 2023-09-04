@@ -3,7 +3,7 @@ layout: product
 productname: KOMATSU PC350-10
 thumbnail: /uploads/4.jpg
 category: Excavators
-sold: false
+sold: true
 model: PC350-10
 hours: 10,292
 year: "2016"
