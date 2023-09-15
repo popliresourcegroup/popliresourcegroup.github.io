@@ -3,7 +3,7 @@ layout: product
 productname: RK160-3-Kobelco 16 Ton
 thumbnail: /uploads/156_49433_1.jpg
 category: Mobile Cranes
-sold: false
+sold: true
 model: RK160-3
 hours: 8,953
 year: "1999"
