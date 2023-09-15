@@ -3,7 +3,7 @@ layout: product
 productname: LW250-3(93yr) Komatsu 25 ton
 thumbnail: /uploads/001.jpg
 category: Mobile Cranes
-sold: false
+sold: true
 model: LW250-3
 hours: "-"
 year: "1993"
