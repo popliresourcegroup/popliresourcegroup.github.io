@@ -3,7 +3,7 @@ layout: product
 productname: PD100- 50 ton Crawler
 thumbnail: /uploads/cimg0071.jpg
 category: Piling Equipment
-sold: false
+sold: true
 model: PD100
 hours: "-"
 year: "1993"
