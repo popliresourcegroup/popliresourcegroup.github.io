@@ -3,7 +3,7 @@ layout: product
 productname: SS40L (92yr)-Tomen Vibro Hammer
 thumbnail: /uploads/16382077945295.jpg
 category: Piling Equipment
-sold: false
+sold: true
 model: SS40L
 hours: "-"
 year: "1992"
