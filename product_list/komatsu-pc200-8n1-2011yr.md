@@ -7,7 +7,7 @@ sold: false
 model: PC200-8N1
 hours: 14,886
 year: "2011"
-serial_no: "551377"
+serial_no: "351377"
 detailpictures:
   - /uploads/pc200-8n1-351377-002.jpg
   - /uploads/pc200-8n1-351377-003.jpg
