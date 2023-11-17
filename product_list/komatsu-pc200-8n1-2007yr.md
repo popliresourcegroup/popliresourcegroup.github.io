@@ -3,7 +3,7 @@ layout: product
 productname: KOMATSU PC200-8N1 2007YR
 thumbnail: /uploads/000001-1d56f3b57816.jpg
 category: Excavators
-sold: false
+sold: true
 model: PC200-8N1
 hours: 10,439
 year: "2007"
