@@ -3,7 +3,7 @@ layout: product
 productname: Hitachi Wheel Excavator
 thumbnail: /uploads/12313001.jpg
 category: Excavators
-sold: false
+sold: true
 model: EX125WD-5
 hours: 19,525
 year: "2002"
