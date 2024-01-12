@@ -3,7 +3,7 @@ layout: product
 productname: 7035 (93yr) 35ton Kobelco
 thumbnail: /uploads/159_50723_70.jpg
 category: Crawler Cranes
-sold: false
+sold: true
 model: "7035"
 hours: 9,357
 year: "1993"
