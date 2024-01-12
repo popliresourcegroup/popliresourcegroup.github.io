@@ -3,7 +3,7 @@ layout: product
 productname: KOMATSU PC300LC-8
 thumbnail: /uploads/42444.jpg
 category: Excavators
-sold: false
+sold: true
 model: PC300LC-8
 hours: 10,563
 year: "2012"
