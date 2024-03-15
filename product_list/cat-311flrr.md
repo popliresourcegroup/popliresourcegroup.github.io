@@ -3,7 +3,7 @@ layout: product
 productname: CAT 311FLRR
 thumbnail: /uploads/162_51667_1.jpg
 category: Excavators
-sold: false
+sold: true
 model: 311FLRR
 hours: 9,034
 year: "2016"
