@@ -3,7 +3,7 @@ layout: product
 productname: KOMATSU PC138US-8
 thumbnail: /uploads/23124.jpg
 category: Excavators
-sold: false
+sold: true
 model: PC138US-8
 hours: 7,047
 year: "2009"
