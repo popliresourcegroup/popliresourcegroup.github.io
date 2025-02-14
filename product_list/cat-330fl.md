@@ -3,7 +3,7 @@ layout: product
 productname: CAT 330FL
 thumbnail: /uploads/cat001.jpg
 category: Excavators
-sold: false
+sold: true
 model: 330FL
 hours: 7,190 (idling hours- 9,044)
 year: "2016"
