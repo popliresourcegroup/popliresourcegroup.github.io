@@ -3,7 +3,7 @@ layout: product
 productname: KOMATSU PC200-10
 thumbnail: /uploads/vvvvvvvv1.jpg
 category: Excavators
-sold: false
+sold: true
 model: PC200-10
 hours: "11509"
 year: "2014"
