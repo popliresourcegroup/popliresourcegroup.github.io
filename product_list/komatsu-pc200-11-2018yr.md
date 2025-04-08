@@ -3,7 +3,7 @@ layout: product
 productname: KOMATSU PC200-11 2018yr
 thumbnail: /uploads/124124.jpg
 category: Excavators
-sold: false
+sold: true
 model: PC200-11
 hours: 1,785
 year: "2018"
