@@ -3,7 +3,7 @@ layout: product
 productname: "HITACHI ZX870 - Excavator "
 thumbnail: /uploads/photo-2024-06-13-17-00-23-11.jpg
 category: Excavators
-sold: false
+sold: true
 model: ZX870 - 87 Tons Hitachi excavator
 hours: 16,660
 year: "2018"
