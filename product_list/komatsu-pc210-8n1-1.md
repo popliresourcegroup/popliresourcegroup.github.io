@@ -3,7 +3,7 @@ layout: product
 productname: KOMATSU PC210-8N1
 thumbnail: /uploads/173_58232_1.jpg
 category: Excavators
-sold: false
+sold: true
 model: PC210-8N1
 hours: 17,847
 year: "2008"
