@@ -3,7 +3,7 @@ layout: product
 productname: KOMATSU PC200LC-8N1 - Super long Boom
 thumbnail: /uploads/13329_1_20240603110808_1.jpg
 category: Excavators
-sold: false
+sold: true
 model: PC200LC-8N1
 hours: "5903"
 year: "2007"
