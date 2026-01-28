@@ -3,7 +3,7 @@ layout: product
 productname: KR35HV(94yr) Kato 35ton
 thumbnail: /uploads/kkkkk001.jpg
 category: Mobile Cranes
-sold: false
+sold: true
 model: KR35HV
 hours: 29,594
 year: "1994"
