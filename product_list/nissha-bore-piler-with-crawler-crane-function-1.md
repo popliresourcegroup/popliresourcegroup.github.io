@@ -3,7 +3,7 @@ layout: product
 productname: "Nissha Bore Piler with Crawler Crane Function "
 thumbnail: /uploads/photo-2025-06-24-14-43-26.jpg
 category: Crawler Cranes
-sold: false
+sold: true
 model: ED6200H-2
 hours: 1,710
 year: "2006"
