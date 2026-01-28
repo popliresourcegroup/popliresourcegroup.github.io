@@ -3,7 +3,7 @@ layout: product
 productname: KOBELCO RK500-2
 thumbnail: /uploads/photo-2025-06-24-14-39-15-2.jpg
 category: Mobile Cranes
-sold: false
+sold: true
 model: RK500-2
 hours: 31,910 140,778 kms,
 year: "2004"
