@@ -3,7 +3,7 @@ layout: product
 productname: KOBELCO RK250-7
 thumbnail: /uploads/photo-2025-06-24-14-40-57.jpg
 category: Mobile Cranes
-sold: false
+sold: true
 model: RK250-7
 hours: 22713 Hrs,  89626 Kms
 year: "2010"
