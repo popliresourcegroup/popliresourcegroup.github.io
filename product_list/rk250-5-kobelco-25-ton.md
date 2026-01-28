@@ -3,7 +3,7 @@ layout: product
 productname: RK250-5 - Kobelco 25 Ton
 thumbnail: /uploads/kjkjkj1.jpg
 category: Mobile Cranes
-sold: false
+sold: true
 model: RK250-5
 hours: 26,970
 year: "-"
