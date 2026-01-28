@@ -3,7 +3,7 @@ layout: product
 productname: KATO KR25HV-5
 thumbnail: /uploads/jpgwwjpgww8.jpgww.jpg
 category: Mobile Cranes
-sold: false
+sold: true
 model: KR25HV-5
 hours: "3999"
 year: "2005"
