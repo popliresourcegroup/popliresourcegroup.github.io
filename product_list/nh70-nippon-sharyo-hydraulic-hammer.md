@@ -3,7 +3,7 @@ layout: product
 productname: NH70- Nippon Sharyo Hydraulic Hammer
 thumbnail: /uploads/1666422242201.jpg
 category: Piling Equipment
-sold: false
+sold: true
 model: NH70
 hours: "-"
 year: "1992"
