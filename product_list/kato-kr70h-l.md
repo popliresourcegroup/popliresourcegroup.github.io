@@ -3,7 +3,7 @@ layout: product
 productname: KATO KR70H-L
 thumbnail: /uploads/photo-2025-06-24-14-40-09-2.jpg
 category: Mobile Cranes
-sold: false
+sold: true
 model: KR70HL
 hours: 34,563
 year: "2010"
