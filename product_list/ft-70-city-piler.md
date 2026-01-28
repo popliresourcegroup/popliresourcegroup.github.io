@@ -3,7 +3,7 @@ layout: product
 productname: "FT 70-City Piler "
 thumbnail: /uploads/16468210171654-1-.jpg
 category: Piling Equipment
-sold: false
+sold: true
 model: FT70
 hours: "-"
 year: "1996"
