@@ -3,7 +3,7 @@ layout: product
 productname: KOBELCO RK250-5
 thumbnail: /uploads/jpg1jpg.jpg
 category: Mobile Cranes
-sold: false
+sold: true
 model: RK250-5
 hours: "32110"
 year: "2000"
