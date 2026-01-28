@@ -3,7 +3,7 @@ layout: product
 productname: "KR65H "
 thumbnail: /uploads/1231-4-.jpg
 category: Mobile Cranes
-sold: false
+sold: true
 model: KR65H
 hours: 31,115
 year: "2006"
