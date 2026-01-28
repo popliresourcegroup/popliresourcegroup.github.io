@@ -3,7 +3,7 @@ layout: product
 productname: ST350MT(95yr) 35ton
 thumbnail: /uploads/12213002.jpg
 category: Mobile Cranes
-sold: false
+sold: true
 model: ST350MT
 hours: 11,899
 year: "1995"
