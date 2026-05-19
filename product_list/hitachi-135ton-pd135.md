@@ -11,6 +11,9 @@ serial_no: 266-0101
 detailpictures:
   - /uploads/whatsapp-image-2026-01-28-at-16.20.38-1-.jpeg
   - /uploads/whatsapp-image-2026-01-28-at-16.20.39.jpeg
+  - /uploads/whatsapp-image-2026-05-19-at-17.44.07.jpeg
+  - /uploads/whatsapp-image-2026-05-19-at-17.44.21.jpeg
+  - /uploads/whatsapp-image-2026-05-19-at-17.44.47.jpeg
 ---
 This is one of biggest piling rig in Japan.\
 
