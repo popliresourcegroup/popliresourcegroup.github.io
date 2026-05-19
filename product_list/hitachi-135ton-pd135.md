@@ -13,8 +13,8 @@ detailpictures:
   - /uploads/whatsapp-image-2026-01-28-at-16.20.39.jpeg
 ---
 This is one of biggest piling rig in Japan.\
-Total weight withstand capacity when used as a tripod piling Rig
-Leader length about３０ｍ
+
+Leader length about 30ｍ
 ４ Jacks attached
 Full CW attached\
 \
